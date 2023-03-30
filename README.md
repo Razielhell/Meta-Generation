@@ -134,13 +134,15 @@ This section contains all the game objects related to the player in the project.
 This section contains all the game objects related to the user interface in the project.
 
 ## WORLD
-- TEST
 <table align="center">
 <th align="center">
 This section contains all the game objects related to the world in the project.
 </table></th>
 
-- test
+- i.
+- ii.
+- iii.
+- iv.
 
 ## RUNTIME
 This section contains all the game objects related to the runtime in the project.
