@@ -133,6 +133,3 @@ This section contains all the game objects related to the user interface in the 
 This section contains all the game objects related to the world in the project.
 ## RUNTIME
 This section contains all the game objects related to the runtime in the project.
-
-
-
