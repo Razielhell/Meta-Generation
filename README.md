@@ -36,15 +36,14 @@ this subdirectory may contain specific documentation related to
 Oculus integration.
 
 </th> </tr> </p> </table>
-</table>
-<h2 align="center"> Plugins </h2>
+
+<h2 align="center">Plugins</h2>
 <table><tr>
 <th><p>
 
 This directory contains any plugins or external libraries used by the project.
 
 </th> </tr> </p> </table>
-
 
 <h2 align="center">ProjectReferences </h2>
 
