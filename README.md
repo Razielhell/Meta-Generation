@@ -38,7 +38,7 @@ Oculus integration.
 </th> </tr> </p> </table>
 
 <h2 align="center">Plugins</h2>
-<table><tr>
+<table align="center"><tr>
 <th><p align="center">
 
 This directory contains any plugins or external libraries used by the project.
