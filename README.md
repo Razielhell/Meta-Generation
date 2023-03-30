@@ -37,9 +37,9 @@ Oculus integration.
 
 </th> </tr> </p> </table>
 
-<h2 align="center">Plugins</h2>
+<h2>Plugins</h2>
 <table align="center"><tr>
-<th><p align="center">
+<th><p>
 
 This directory contains any plugins or external libraries used by the project.
 
@@ -63,7 +63,7 @@ This directory contains subdirectories with different types of assets used in th
 	<th>Scenes</th>
   </tr>
    <tr>
-    <td>This subdirectory contains all of the project's art assets</td>
+    <td align="center>This subdirectory contains all of the project's art assets</td>
     <td>This subdirectory contains all of the project's audio assets</td>
     <td>This subdirectory contains all of the project's prefabs,which are reusable game objects that can be used to quickly add functionality to a scene</td>
 	<td>This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality </td>
