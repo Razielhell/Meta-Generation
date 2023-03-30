@@ -17,14 +17,12 @@ This directory contains any plugins or external libraries used by the project.
 ## ProjectReferences
 This directory contains subdirectories with different types of assets used in the project.
 <h2>ART</h2>
-
 <table>
   <tr>
     <th>Materials</th>
     <th>Models</th>
     <th>Shaders</th>
 	<th>Textures</th>
-  </tr>
   </tr>
 * Art
 This subdirectory contains all of the project's art assets, such as 
