@@ -73,6 +73,8 @@ This directory contains subdirectories with different types of assets used in th
   <tr>
     <td>Materials,Models,Shaders,Textures</td>
     <td>AudioClips,AudioMixers,Music</td>
+	<td>Triage bags,Every triage tag,tourniquet,Chest seal,Oxygen tubes,Multiple body parts of victims. </td>
+	<td>Main menu information,Main Commander guidance,Victim's speech bubble.</td>
   </tr>
 </table>
 </body>
