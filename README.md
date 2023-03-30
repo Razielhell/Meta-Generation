@@ -55,20 +55,20 @@ This directory contains subdirectories with different types of assets used in th
 
 <table>
   <tr align="center">
-    <th align="center"><h2>Art</h2></th>
-    <th align="center"><h2>Audio</h2></th>
-    <th align="center"><h2>Prefabs</h2></th>
-	<th align="center"><h2>Scripts</h2></th>
-	<th align="center"><h2>Resources</h2></th>
-	<th align="center"><h2>Scenes</h2></th>
+    <th align="center"><h3>Art</h3></th>
+    <th align="center"><h3>Audio</h3></th>
+    <th align="center"><h3>Prefabs</h3></th>
+	<th align="center"><h3>Scripts</h3></th>
+	<th align="center"><h3>Resources</h3></th>
+	<th align="center"><h3>Scenes</h3></th>
   </tr>
    <tr align="center">
-    <td><h4>This subdirectory contains all of the project's art assets.</h4></td>
-    <td><h4>This subdirectory contains all of the project's audio assets.</h4></td>
-    <td><h4 align="left">This subdirectory contains all of the project's prefabs,which are reusable game objects that can be used to quickly add functionality to a scene.</h4></td>
-	<td><h4 align="left">This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.</h4></td>
-    <td><h4 align="left">This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.</h4></td>
-	<td><h4 align="left">This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.</h4></td>
+    <td><h5>This subdirectory contains all of the project's art assets.</h5></td>
+    <td><h5>This subdirectory contains all of the project's audio assets.</h5></td>
+    <td><h5 align="left">This subdirectory contains all of the project's prefabs,which are reusable game objects that can be used to quickly add functionality to a scene.</h5></td>
+	<td><h5 align="left">This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.</h5></td>
+    <td><h5 align="left">This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.</h5></td>
+	<td><h5 align="left">This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.</h5></td>
   </tr>
   <tr>
     <td>Materials,Models,Shaders,Textures</td>
