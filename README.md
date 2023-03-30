@@ -16,7 +16,7 @@ This directory contains any plugins or external libraries used by the project.
 
 ## ProjectReferences
 This directory contains subdirectories with different types of assets used in the project.
-<h2>ART</h2>
+<h2>TESTING</h2>
 <table>
   <tr>
     <th>Materials</th>
