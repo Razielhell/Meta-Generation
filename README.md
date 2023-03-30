@@ -61,6 +61,11 @@ This directory contains subdirectories with different types of assets used in th
 	<th align="center"><h3>Scripts</h3></th>
 	<th align="center"><h3>Resources</h3></th>
 	<th align="center"><h3>Scenes</h3></th>
+	<th align="center"><h3>[ProjectName]</h3></th>
+	<th align="center"><h3>Scene Files</h3></th>
+	<th align="center"><h3>[Project LightingData]</h3></th>
+	<th align="center"><h3>StreamingAssets</h3></th>
+	<th align="center"><h3>XR</h3></th>
   </tr>
    <tr align="center">
     <td><h5>This subdirectory contains all of the project's art assets.</h5></td>
@@ -69,6 +74,11 @@ This directory contains subdirectories with different types of assets used in th
 	<td><h5 align="left">This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.</h5></td>
     <td><h5 align="left">This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.</h5></td>
 	<td><h5 align="left">This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.</h5></td>
+	<td><h5 align="left">This subdirectory contains the scenes for the project, organized by project name.</h5></td>
+	<td><h5 align="left">This subdirectory contains the scene files for the project.</h5></td>
+	<td><h5 align="left">This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.</h5></td>
+	<td><h5 align="left">This directory contains any streaming assets used by the project, such as databases or other files used to store game data.</h5></td>
+	<td><h5 align="left">This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.</h5></td>
   </tr>
   <tr>
     <td><h4 align="center">Materials,Models,Shaders,Textures.</h4></td>
