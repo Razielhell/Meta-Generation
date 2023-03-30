@@ -63,9 +63,8 @@ This directory contains subdirectories with different types of assets used in th
 	<th align="center">Scenes</th>
   </tr>
    <tr align="center">
-    <td><h4>This subdirectory contains 
-	    
-	    all of the project's art assets.</h4></td>
+    <td><h4>This subdirectory contains all of the 
+	    project's art assets.</h4></td>
     <td><h4>This subdirectory contains all of the project's audio assets.</h4></td>
     <td><h4>This subdirectory contains all of the project's prefabs,which are reusable game objects that can be used to quickly add functionality to a scene.</h4></td>
 	<td><h4>This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.</h4></td>
