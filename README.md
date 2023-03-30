@@ -37,7 +37,7 @@ Oculus integration.
 
 </th> </tr> </p> </table>
 
-<h2>Plugins</h2>
+<h2 align="center">Plugins</h2>
 <table align="center"><tr>
 <th><p>
 
