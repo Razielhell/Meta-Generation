@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<center><h1>Hero Cross Reality Applcation - Project Structure</h2></center>
+<h1><center>Hero Cross Reality Applcation - Project Structure</center></h2>
 <table><tr>
 <th><p>This Unity project contains several Virtual Reality trainings and includes several
 directories with different types of assets,such as scripts,scenes,prefabs,textures,and
