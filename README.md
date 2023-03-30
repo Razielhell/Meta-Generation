@@ -55,12 +55,12 @@ This directory contains subdirectories with different types of assets used in th
 
 <table>
   <tr align="center">
-    <th align="center">Art</th>
-    <th align="center">Audio</th>
-    <th align="center">Prefabs</th>
-	<th align="center">Scripts</th>
-	<th align="center">Resources</th>
-	<th align="center">Scenes</th>
+    <th align="center"><h2>Art</h2></th>
+    <th align="center"><h2>Audio</h2></th>
+    <th align="center"><h2>Prefabs</h2></th>
+	<th align="center"><h2>Scripts</h2></th>
+	<th align="center"><h2>Resources</h2></th>
+	<th align="center"><h2>Scenes</h2></th>
   </tr>
    <tr align="center">
     <td><h4>This subdirectory contains all of the project's art assets.</h4></td>
