@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
+<style>
 h2 {text-align: center;}
+</style>
 <h2>Hero Cross Reality Applcation - Project Structure</h2>
 <table style="width:100%">
  <tr>
