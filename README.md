@@ -113,6 +113,7 @@ This directory may contain any files related to XR (Extended Reality) integratio
 
 # Hero Cross Reality Applcation - Hierarchy Structure
 This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
+
 ## PREREQUISITES
 This section contains all the game objects that is necessary for the current scene.
 - LIGHTS
@@ -125,15 +126,18 @@ This section contains all the game objects related to special effects in the pro
 This section contains all the game objects related to events in the project.
 - ROUTINE & MANAGERS
 This section contains all the game objects related to routine and managers in the project.
+
 ## PLAYER
 This section contains all the game objects related to the player in the project.
+
 ## UI
 This section contains all the game objects related to the user interface in the project.
+
 ## WORLD
-<p><table align="center">
+<table align="center">
 <th align="center">
 This section contains all the game objects related to the world in the project.
-</table></th> </p>
+</table></th>
 
 ## RUNTIME
 This section contains all the game objects related to the runtime in the project.
