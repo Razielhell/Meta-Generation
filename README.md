@@ -71,9 +71,9 @@ This directory contains subdirectories with different types of assets used in th
 	<td><h5 align="left">This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.</h5></td>
   </tr>
   <tr>
-    <td>Materials,Models,Shaders,Textures</td>
-    <td>AudioClips,AudioMixers,Music</td>
-	<td>Triage bags,Every triage tag,tourniquet,Chest seal,Oxygen tubes,Multiple body parts of victims. </td>
+    <td>Materials,Models,Shaders,Textures.</td>
+    <td>AudioClips,AudioMixers,Music.</td>
+	<td>Triage bags,Every triage tag,tourniquet,Chest seal,Oxygen tubes,Multiple body parts of victims.</td>
 	<td>Main menu information,Main Commander guidance,Victim's speech bubble.</td>
   </tr>
 </table>
