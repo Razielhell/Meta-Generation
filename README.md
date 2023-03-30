@@ -134,5 +134,6 @@ This section contains all the game objects related to the user interface in the 
 <th align="center">
 This section contains all the game objects related to the world in the project.
 </table></th> </p>
+
 ## RUNTIME
 This section contains all the game objects related to the runtime in the project.
