@@ -54,8 +54,8 @@ This directory contains subdirectories with different types of assets used in th
 </th> </tr> </p> </table>
 
 <table>
-  <tr>
-    <th>Art</th>
+  <tr align="center">
+    <th align="left">Art</th>
     <th>Audio</th>
     <th>Prefabs</th>
 	<th>Scripts</th>
