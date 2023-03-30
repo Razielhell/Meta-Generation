@@ -66,9 +66,9 @@ This directory contains subdirectories with different types of assets used in th
     <td><h4>This subdirectory contains all of the project's art assets.</h4></td>
     <td><h4>This subdirectory contains all of the project's audio assets.</h4></td>
     <td><h4 align="left">This subdirectory contains all of the project's prefabs,which are reusable game objects that can be used to quickly add functionality to a scene.</h4></td>
-	<td><h4>This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.</h4></td>
-    <td><h4>This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.</h4></td>
-	<td><h4>This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.</h4></td>
+	<td><h4 align="left">This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.</h4></td>
+    <td><h4 align="left">This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.</h4></td>
+	<td><h4 align="left">This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.</h4></td>
   </tr>
   <tr>
     <td>Materials,Models,Shaders,Textures</td>
