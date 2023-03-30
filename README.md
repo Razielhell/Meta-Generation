@@ -130,9 +130,10 @@ This section contains all the game objects related to the player in the project.
 ## UI
 This section contains all the game objects related to the user interface in the project.
 ## WORLD
-<table align="center">
+<p><table align="center">
 <tr><th align="center">
 This section contains all the game objects related to the world in the project.
-</table></tr></th> 
+</table></tr></th> </p>
+
 ## RUNTIME
 This section contains all the game objects related to the runtime in the project.
