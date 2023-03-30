@@ -25,7 +25,7 @@ or other resources to facilitate the development process.
 This directory contains the project's documentation,
 which may include user manuals,installation guides,or technical specifications.
 
-<th><p>
+</th><p>
 </th> </tr> </p> </table>
 </table>
 <h2>Oculus</h2>
