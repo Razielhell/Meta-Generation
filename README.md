@@ -20,12 +20,11 @@ or other resources to facilitate the development process.
 </th> </tr> </p> </table>
 </table>
 <h2>Documentation</h2>
-<table><tr>
+<table><tr><th><p>
 
 This directory contains the project's documentation,
 which may include user manuals,installation guides,or technical specifications.
 
-</th><p>
 </th> </tr> </p> </table>
 </table>
 <h2>Oculus</h2>
