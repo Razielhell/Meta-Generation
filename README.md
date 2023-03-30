@@ -24,8 +24,7 @@ This directory contains subdirectories with different types of assets used in th
     <th>Models</th>
     <th>Shaders</th>
 	<th>Textures</th>
-  </tr>
-	
+  </tr>	
 * Art
 This subdirectory contains all of the project's art assets, such as 
 - materials, 
