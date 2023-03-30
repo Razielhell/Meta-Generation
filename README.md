@@ -119,15 +119,25 @@ This section describes the hierarchy of the game objects in the Unity project an
 <th align="center">
 This section contains all the game objects that is necessary for the current scene.
 </table></th>
+
 - LIGHTS
+
 This section contains all the game objects related to lighting in the project.
+
 - AUDIO
+
 This section contains all the game objects related to audio in the project.
+
 - EFFECTS
+
 This section contains all the game objects related to special effects in the project.
+
 - EVENTS
+
 This section contains all the game objects related to events in the project.
+
 - ROUTINE & MANAGERS
+
 This section contains all the game objects related to routine and managers in the project.
 
 ## PLAYER
