@@ -115,7 +115,10 @@ This directory may contain any files related to XR (Extended Reality) integratio
 This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
 
 ## PREREQUISITES
+<table align="center">
+<th align="center">
 This section contains all the game objects that is necessary for the current scene.
+</table></th>
 - LIGHTS
 This section contains all the game objects related to lighting in the project.
 - AUDIO
@@ -128,10 +131,27 @@ This section contains all the game objects related to events in the project.
 This section contains all the game objects related to routine and managers in the project.
 
 ## PLAYER
+<table align="center">
+<th align="center">
 This section contains all the game objects related to the player in the project.
+</table></th>
+
+- i.
+- ii.
+- iii.
+- iv.
+
 
 ## UI
+<table align="center">
+<th align="center">
 This section contains all the game objects related to the user interface in the project.
+</table></th>
+
+- i.
+- ii.
+- iii.
+- iv.
 
 ## WORLD
 <table align="center">
