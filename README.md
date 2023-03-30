@@ -70,14 +70,10 @@ This directory contains subdirectories with different types of assets used in th
 	<td>This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality </td>
     <td>This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files</td>
 	<td>This directory contains all of the project's scenes, which are the individual levels or screens that make up the game</td>
-    <td> </td>
   </tr>
   <tr>
     <td>Materials,Models,Shaders,Textures</td>
     <td>AudioClips,AudioMixers,Music</td>
-    <td> </td>
-	<td> </td>
-	<td> </td>
   </tr>
 </table>
 </body>
