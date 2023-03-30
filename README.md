@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
 <body>
-                                     <h2>Hero Cross Reality Applcation - Project Structure</h2>
-<table style="width:100%">
- <tr>
+<style>
+h2 {text-align: center;}
+</style>
+<h2>Hero Cross Reality Applcation - Project Structure</h2>
+<table style="width:80%">
+<tr>
 <th><p>This Unity project contains several Virtual Reality trainings and includes several
 directories with different types of assets,such as scripts,scenes,prefabs,textures,and
 audio files. In this README file, we will provide an overview of each directory and describe
