@@ -31,10 +31,8 @@ This directory includes files and documents intended for developers working on t
 
 | Developer Name | Giorgos Paragioudakis |
 | -------------  | ------------- |
-| Art - Materials
-- Models
-- Shaders
-- Textures   | Content Cell  |
+| Art (Materials,Models,Shaders,Textures) |
+| Content Cell  |
 | Content Cell   | Content Cell  |
 
 
