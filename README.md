@@ -110,11 +110,11 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 
 | Project Name | Scene | Project Lighting Data | Navmesh |
 | -------------  | ------------- | ------------- | ------ |
-|ACMC | - | Lighting Data | |
-|MCI | - | Lighting Data | |
-|COACE | - | Lighting Data | |
-|GTB | - | Lighting Data | |
-|UTSW | - | Lighting Data | |
+|ACMC | Scene Files | Lighting Data | Navmesh Files|
+|MCI | Scene Files | Lighting Data | Navmesh Files |
+|COACE | Scene Files | Lighting Data | Navmesh Files |
+|GTB | Scene Files | Lighting Data | Navmesh Files |
+|UTSW | Scene Files | Lighting Data | Navmesh Files |
 
 <a name="1.7"></a>
 <a name="structure-StreamingAssets"></a>
