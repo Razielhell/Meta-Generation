@@ -22,4 +22,35 @@
 <a name="1.0"></a>
 <a name="structure-Developers"></a>
 ### 1.0 Developers
-These are common rules for naming any folder in the content structure.
+
+<a name="1.1"></a>
+<a name="structure-Documentation"></a>
+### 1.1 Documentation
+
+<a name="1.2"></a>
+<a name="structure-Oculus"></a>
+### 1.2 Oculus
+
+<a name="1.3"></a>
+<a name="structure-Plugins"></a>
+### 1.3 Plugins
+
+<a name="1.4"></a>
+<a name="structure-ProjectReferences"></a>
+### 1.4 ProjectReferences
+
+<a name="1.5"></a>
+<a name="structure-Resources"></a>
+### 1.5 Resources
+
+<a name="1.6"></a>
+<a name="structure-Scenes"></a>
+### 1.6 Scenes
+
+<a name="1.7"></a>
+<a name="structure-StreamingAssets"></a>
+### 1.7 StreamingAssets
+
+<a name="1.8"></a>
+<a name="structure-XR"></a>
+### 1.8 XR
