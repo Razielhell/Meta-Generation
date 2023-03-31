@@ -31,14 +31,12 @@ This directory includes files and documents intended for developers working on t
 
 | Developer Name | Assets | Folders |
 | -------------  | ------------- | ------------- |
-|Giorgos Ntakakis | Art | Materials,Models,Shaders,Textures |
-|Giorgos Ntakakis | Audio | AudioClips, AudioMixers, Music |
-|Giorgos Ntakakis | Prefabs | - |
-|Giorgos Ntakakis | Scripts | - |
-|Giorgos Paragioudakis | Art | Materials, Models, Shaders, Textures |
-|Giorgos Paragioudakis | Audio | AudioClips, AudioMixers, Music |
-|Giorgos Paragioudakis | Prefabs | - |
-|Giorgos Paragioudakis | Scripts | - |
+| {DeveloperName} | Art | Materials,Models,Shaders,Textures |
+|  | Audio | AudioClips, AudioMixers, Music |
+|  | Prefabs | - |
+|  | Scripts | - |
+|  | Prefabs | - |
+|  | Scripts | - |
 
 <a name="1.1"></a>
 <a name="structure-Documentation"></a>
