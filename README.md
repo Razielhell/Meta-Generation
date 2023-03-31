@@ -19,7 +19,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 <a name="1.0"></a>
 <a name="structure-Developers"></a>
-### 1.0 Developers
+### Developers
 
 This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.
 
@@ -32,7 +32,7 @@ This directory includes files and documents intended for developers working on t
 
 <a name="1.1"></a>
 <a name="structure-Documentation"></a>
-### 1.1 Documentation
+### Documentation
 
 This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications.
 
@@ -76,13 +76,13 @@ This subdirectory contains all of the project's scripts, which are used to defin
 
 <a name="1.2"></a>
 <a name="structure-Resources"></a>
-### 1.2 Resources
+### Resources
 
 This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.
 
 <a name="1.3"></a>
 <a name="structure-Scenes"></a>
-### 1.3 Scenes
+### Scenes
 
 This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.
 
@@ -105,7 +105,7 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 
 <a name="1.4"></a>
 <a name="structure-StreamingAssets"></a>
-### 1.4 StreamingAssets
+### StreamingAssets
 
 This directory contains any streaming assets used by the project, such as databases or other files used to store game data.
 
@@ -114,7 +114,7 @@ If the project includes a database, this file may contain the database used by t
 
 <a name="1.5"></a>
 <a name="structure-XR"></a>
-### 1.5 XR
+### XR
 This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.
 
 <h1 align="center"> Hero Cross Reality Application - Hierarchy Structure </h1>
