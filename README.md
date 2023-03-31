@@ -54,3 +54,26 @@
 <a name="1.8"></a>
 <a name="structure-XR"></a>
 ### 1.8 XR
+
+# Hero Cross Reality Applcation - Hierarchy Structure
+This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
+
+> 2.0 [PREREQUISITES](#structure-PREREQUISITES)
+
+> 2.0.1 [LIGHTS](#structure-PREREQUISITES)
+
+> 2.0.2 [AUDIO](#structure-PREREQUISITES)
+
+> 2.0.3 [EFFECTS](#structure-PREREQUISITES)
+
+> 2.0.4 [EVENTS](#structure-PREREQUISITES)
+
+> 2.0.5 [ROUTINE & MANAGERS](#structure-PREREQUISITES)
+
+> 2.1 [PLAYER](#structure-PREREQUISITES)
+
+> 2.2 [UI](#structure-PREREQUISITES)
+
+> 2.3 [WORLD](#structure-PREREQUISITES)
+
+> 2.4 [RUNTIME](#structure-PREREQUISITES)
