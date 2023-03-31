@@ -8,19 +8,13 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.1 [Documentation](#structure-Documentation)
 
-> 1.2 [Oculus](#structure-Oculus)
+> 1.2 [Resources](#structure-Resources)
 
-> 1.3 [Plugins](#structure-Plugins)
+> 1.3 [Scenes](#structure-Scenes)
 
-> 1.4 [Project References](#structure-ProjectReferences)
+> 1.4 [StreamingAssets](#structure-StreamingAssets)
 
-> 1.5 [Resources](#structure-Resources)
-
-> 1.6 [Scenes](#structure-Scenes)
-
-> 1.7 [StreamingAssets](#structure-StreamingAssets)
-
-> 1.8 [XR](#structure-XR)
+> 1.5 [XR](#structure-XR)
 
 
 <a name="1.0"></a>
@@ -80,15 +74,15 @@ This subdirectory contains all of the project's prefabs, which are reusable game
 <h2>Scripts</h2>
 This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.
 
-<a name="1.5"></a>
+<a name="1.2"></a>
 <a name="structure-Resources"></a>
-### 1.5 Resources
+### 1.2 Resources
 
 This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.
 
-<a name="1.6"></a>
+<a name="1.3"></a>
 <a name="structure-Scenes"></a>
-### 1.6 Scenes
+### 1.3 Scenes
 
 This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.
 
@@ -109,18 +103,18 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 |GTB | Scene Files | Lighting Data | Navmesh Files |
 |UTSW | Scene Files | Lighting Data | Navmesh Files |
 
-<a name="1.7"></a>
+<a name="1.4"></a>
 <a name="structure-StreamingAssets"></a>
-### 1.7 StreamingAssets
+### 1.4 StreamingAssets
 
 This directory contains any streaming assets used by the project, such as databases or other files used to store game data.
 
 - Hero.db3
 If the project includes a database, this file may contain the database used by the project.
 
-<a name="1.8"></a>
+<a name="1.5"></a>
 <a name="structure-XR"></a>
-### 1.8 XR
+### 1.5 XR
 This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.
 
 <h1 align="center"> Hero Cross Reality Application - Hierarchy Structure </h1>
