@@ -22,7 +22,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 	[DeveloperName]
 
-	- Art
+	_Art
 
 		- Materials
 		
@@ -32,7 +32,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 		
 		- Textures
 		
-	- Audio
+	_Audio
 	
 		- AudioClip
 		
@@ -40,11 +40,11 @@ This Unity project contains several Virtual Reality trainings and includes sever
 		
 		- Music
 		
-	- Prefabs
+	_Prefabs
 		
 		- 
 
-	- Scripts
+	_Scripts
 	
 		-
 
@@ -57,9 +57,9 @@ This Unity project contains several Virtual Reality trainings and includes sever
 				- <a name="structure-ProjectReferences"> ProjectReferences</a>
 
 		
-		- Resources
+		_Resources
 		
-		- Scenes
+		_Scenes
 
 			- [ProjectName]
 				
@@ -71,7 +71,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 			
 			- NavMesh
 
-		- StreamingAssets
+		_StreamingAssets
 
 			- Hero.db3
 
