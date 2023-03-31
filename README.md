@@ -49,9 +49,9 @@ This directory contains the project's documentation, which may include user manu
 <a name="1.4"></a>
 <a name="structure-ProjectReferences"></a>
 
-- Project References : This directory contains subdirectories with different types of assets used in the project.
+- Project References : 
 
-<h2>Art</h2>
+<h2 align="center">Art</h2>
 
 This subdirectory contains all of the project's art assets, such as :
 
