@@ -54,7 +54,7 @@ This directory contains the project's documentation, which may include user manu
 <h2 align="center">Art</h2>
 
 <p align="center">This subdirectory contains all of the project's art assets, such as : 
-<p align="center">
+<p :---:>
 
 - Materials
 - Models
