@@ -55,7 +55,9 @@ This directory contains any plugins or external libraries used by the project.
 This directory contains subdirectories with different types of assets used in the project.
 
 * Art
-This subdirectory contains all of the project's art assets, such as 
+
+This subdirectory contains all of the project's art assets, such as :
+
 - materials, 
 - models, 
 - shaders, 
