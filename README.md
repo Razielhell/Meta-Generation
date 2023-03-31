@@ -154,7 +154,7 @@ This section contains all the game objects related to the user interface in the 
 - iii.
 - iv.
 
-:---: WORLD
+<h1> WORLD </h1>
 
 | This section contains all the game objects related to the world in the project.  | Second Header |
 | ------------- | ------------- |
