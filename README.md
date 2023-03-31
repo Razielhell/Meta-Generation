@@ -10,9 +10,9 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.2 [Oculus](#structure-Oculus)
 
-> 1.3 [Plugins](#levels)
+> 1.3 [Plugins](#structure-Plugins)
 
-> 1.4 [ProjectReferences](#structure-ownership)
+> 1.4 [ProjectReferences](#structure-ProjectReferences)
 
 > 1.5 [Resources](#structure-Resources)
 
