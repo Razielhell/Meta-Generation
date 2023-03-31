@@ -24,7 +24,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 	_Developers</a>
 
 		- [DeveloperName]
-<a name="structure-Developers">
+<a name="structure-Art">
 	_Art</a>
 
 		- Materials
