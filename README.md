@@ -1,25 +1,25 @@
 ### Sections
 
-> 1.0 [Developers] (#structure-folder-names)
+> 2.1 [Folder Names](#structure-folder-names)
 
-> 1.1 Top-Level Folders (#structure-top-level)
+> 2.2 [Top-Level Folders](#structure-top-level)
 
-> 1.2 Documentation (#structure-developers)
+> 2.3 [Developer Folders](#structure-developers)
 
-> 1.3 Oculus (#levels)
+> 2.4 [Levels](#levels)
 
-> 1.4 Plugins(#structure-ownership)
+> 2.5 [Define Ownership](#structure-ownership)
 
-> 1.5 ProjectReferences(#structure-assettypes)
+> 2.6 [`Assets` and `AssetTypes`](#structure-assettypes)
 
-> 1.6 Resources (#structure-folder-names)
+> 2.7 [Large Sets](#structure-large-sets)
 
-> 1.7 Scenes(#structure-top-level)
+> 2.8 [Material Library](#structure-material-library)
 
-> 1.8 StreamingAssets(#levels)
+> 2.9 [Scene Structure](#scene-structure)
 
-> 1.9 XR (#structure-ownership)
 
-<a name="1.0"></a>
-<a name="structure-_Developers"></a>
-### 1.0 _Developers
+<a name="2.1"></a>
+<a name="structure-folder-names"></a>
+### 2.1 Folder Names
+These are common rules for naming any folder in the content structure.
