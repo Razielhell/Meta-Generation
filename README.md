@@ -12,7 +12,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.3 [Plugins](#structure-Plugins)
 
-> 1.4 [ProjectReferences](#structure-ProjectReferences)
+> 1.4 [Project References](#structure-ProjectReferences)
 
 > 1.5 [Resources](#structure-Resources)
 
@@ -60,7 +60,7 @@ This directory contains any plugins or external libraries used by the project.
 
 <a name="1.4"></a>
 <a name="structure-ProjectReferences"></a>
-### 1.4 ProjectReferences
+### 1.4 Project References
 
 This directory contains subdirectories with different types of assets used in the project.
 
