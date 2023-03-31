@@ -1,6 +1,6 @@
 ### Sections
 
-> 2.1 [Folder Names](#structure-folder-names)
+> 1.0 [Developers](#structure-folder-names)
 
 > 2.2 [Top-Level Folders](#structure-top-level)
 
