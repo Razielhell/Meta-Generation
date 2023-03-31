@@ -18,9 +18,10 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 <pre>
 
-<a name="structure-Developers">_Developers</a>
+<a name="structure-Developers">
+	_Developers</a>
 
-	- [DeveloperName]
+		- [DeveloperName]
 
 	_Art
 
