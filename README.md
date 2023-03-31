@@ -158,7 +158,7 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 <a name="2.0"></a>
 <a name="structure-PREREQUISITES"></a>
-### 2.0 PREREQUISITES
+### PREREQUISITES
 
 <a name="2.0.1"></a>
 <a name="structure-LIGHTS"></a>
