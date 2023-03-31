@@ -1,4 +1,4 @@
-<p align="center"> # Hero Cross Reality Applcation - Project Structure </p>
+<h1 align="center"> Hero Cross Reality Application - Project Structure </h1>
 
 This Unity project contains several Virtual Reality trainings and includes several directories with different types of assets, such as scripts, scenes, prefabs, textures, and audio files. In this README file, we will provide an overview of each directory and describe its contents.
 
@@ -59,7 +59,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 <a name="structure-XR"></a>
 ### 1.8 XR
 
-# Hero Cross Reality Applcation - Hierarchy Structure
+# Hero Cross Reality Application - Hierarchy Structure
 This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
 
 > 2.0 [PREREQUISITES](#structure-PREREQUISITES)
