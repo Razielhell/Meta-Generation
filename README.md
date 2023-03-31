@@ -64,20 +64,56 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 > 2.0 [PREREQUISITES](#structure-PREREQUISITES)
 
-> 2.0.1 [LIGHTS](#structure-PREREQUISITES)
+> 2.0.1 [LIGHTS](#structure-LIGHTS)
 
-> 2.0.2 [AUDIO](#structure-PREREQUISITES)
+> 2.0.2 [AUDIO](#structure-AUDIO)
 
-> 2.0.3 [EFFECTS](#structure-PREREQUISITES)
+> 2.0.3 [EFFECTS](#structure-EFFECTS)
 
-> 2.0.4 [EVENTS](#structure-PREREQUISITES)
+> 2.0.4 [EVENTS](#structure-EVENTS)
 
-> 2.0.5 [ROUTINE & MANAGERS](#structure-PREREQUISITES)
+> 2.0.5 [ROUTINE & MANAGERS](#structure-ROUTINE & MANAGERS)
 
-> 2.1 [PLAYER](#structure-PREREQUISITES)
+> 2.1 [PLAYER](#structure-PLAYER)
 
-> 2.2 [UI](#structure-PREREQUISITES)
+> 2.2 [UI](#structure-UI)
 
-> 2.3 [WORLD](#structure-PREREQUISITES)
+> 2.3 [WORLD](#structure-WORLD)
 
-> 2.4 [RUNTIME](#structure-PREREQUISITES)
+> 2.4 [RUNTIME](#structure-RUNTIME)
+
+<a name="2.0.1"></a>
+<a name="structure-LIGHTS"></a>
+### 2.0.1 LIGHTS
+
+<a name="2.0.2"></a>
+<a name="structure-AUDIO"></a>
+### 2.0.2 AUDIO
+
+<a name="2.0.3"></a>
+<a name="structure-EFFECTS"></a>
+### 2.0.3 EFFECTS
+
+<a name="2.0.4"></a>
+<a name="structure-Plugins"></a>
+### 2.0.3 EVENTS
+
+<a name="2.0.5"></a>
+<a name="structure-ROUTINE & MANAGERS"></a>
+### 2.0.5 ROUTINE & MANAGERS
+
+<a name="2.1"></a>
+<a name="structure-PLAYER"></a>
+### 2.1 PLAYER
+
+<a name="2.2"></a>
+<a name="structure-UI"></a>
+### 2.2 UI
+
+<a name="2.3"></a>
+<a name="structure-WORLD"></a>
+### 2.3 WORLD
+
+<a name="2.4"></a>
+<a name="structure-RUNTIME"></a>
+### 2.4 RUNTIME
