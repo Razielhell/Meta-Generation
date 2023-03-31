@@ -7,16 +7,18 @@ This Unity project contains several Virtual Reality trainings and includes sever
 > 1.0 [Developers](#structure-Developers)
 
 > 1.1 [Art](#structure-Art)
->  
-> 1.2 [Documentation](#structure-Documentation)
 
-> 1.3 [Resources](#structure-Resources)
+> 1.2 [Audio](#structure-Audio)
 
-> 1.4 [Scenes](#structure-Scenes)
+> 1.3 [Documentation](#structure-Documentation)
 
-> 1.5 [StreamingAssets](#structure-StreamingAssets)
+> 1.4 [Resources](#structure-Resources)
 
-> 1.6 [XR](#structure-XR)
+> 1.5 [Scenes](#structure-Scenes)
+
+> 1.6 [StreamingAssets](#structure-StreamingAssets)
+
+> 1.7 [XR](#structure-XR)
 
 <pre>
 
@@ -34,8 +36,8 @@ This Unity project contains several Virtual Reality trainings and includes sever
 		- Shaders
 		
 		- Textures
-		
-	_Audio
+	<a name="structure-Audio">	
+	_Audio</a>
 	
 		- AudioClip
 		
