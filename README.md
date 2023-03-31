@@ -179,7 +179,7 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 <a name="2.1"></a>
 <a name="structure-PLAYER"></a>
-### 2.1 PLAYER
+### PLAYER
 
 - XR Rig TRIAGE
 - Right Controller
@@ -188,14 +188,14 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 <a name="2.2"></a>
 <a name="structure-UI"></a>
-### 2.2 UI
+### UI
 
 - SCREEN UI
 - WORLD UI
 
 <a name="2.3"></a>
 <a name="structure-WORLD"></a>
-### 2.3 WORLD
+### WORLD
 
 - INDOOR
 - BOUNDARIES
@@ -205,4 +205,4 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 <a name="2.4"></a>
 <a name="structure-RUNTIME"></a>
-### 2.4 RUNTIME
+### RUNTIME
