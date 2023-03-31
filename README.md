@@ -35,10 +35,10 @@ This directory includes files and documents intended for developers working on t
 |Giorgos Ntakakis | Audio | AudioClips, AudioMixers, Music |
 |Giorgos Paragioudakis | Art | Materials, Models, Shaders, Textures |
 |Giorgos Paragioudakis | Audio | AudioClips, AudioMixers, Music |
-|Giorgos Ntakakis | Prefabs | ? |
-|Giorgos Ntakakis | Scripts | ? |
-|Giorgos Paragioudakis | Prefabs | ? |
-|Giorgos Paragioudakis | Scripts | ? |
+|Giorgos Ntakakis | Prefabs | - |
+|Giorgos Ntakakis | Scripts | - |
+|Giorgos Paragioudakis | Prefabs | - |
+|Giorgos Paragioudakis | Scripts | - |
 
 <a name="1.1"></a>
 <a name="structure-Documentation"></a>
@@ -99,13 +99,22 @@ This directory contains miscellaneous resources that do not fit into any of the 
 
 This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.
 
+- [ProjectName]
+This subdirectory contains the scenes for the project, organized by project name.
+
+- Scene
+This subdirectory contains the scene files for the project.
+
+- [Project LightingData]
+This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
+
 | Project Name | Scene | Project LightingData |
 | -------------  | ------------- | ------------- |
-|ACMC |  |  |
-|MCI |  |  |
-|COACE |  |  |
-|GTB |  |  |
-|UTSW |  | - |
+|ACMC | - | - |
+|MCI | - | - |
+|COACE | - | - |
+|GTB | - | - |
+|UTSW | - | - |
 
 <a name="1.7"></a>
 <a name="structure-StreamingAssets"></a>
