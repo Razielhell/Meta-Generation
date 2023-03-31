@@ -35,8 +35,6 @@ This directory includes files and documents intended for developers working on t
 |  | Audio | AudioClips, AudioMixers, Music |
 |  | Prefabs | - |
 |  | Scripts | - |
-|  | Prefabs | - |
-|  | Scripts | - |
 
 <a name="1.1"></a>
 <a name="structure-Documentation"></a>
