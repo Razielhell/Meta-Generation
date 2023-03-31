@@ -18,7 +18,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 <pre>
 
-_Developers
+<a name="structure-Developers">_Developers</a>
 
 	[DeveloperName]
 
@@ -39,42 +39,25 @@ _Developers
 		- AudioMixer
 		
 		- Music
-		
 	- Prefabs
-	
+		
+		- 
+
 	- Scripts
 	
-	
+		-
 
-Documentation
+	- Documentation
 
-- Oculus
+		- Oculus
 
-- Plugins
+			- Plugins
 
-- ProjectReferences
+				- ProjectReferences
 
-Art
+		
 
-Materials
 
-Models
-
-Shaders
-
-Textures
-
-Audio
-
-AudioClip
-
-AudioMixer
-
-Music
-
-Prefabs
-
-Scripts
 
 Resources
 Scenes
