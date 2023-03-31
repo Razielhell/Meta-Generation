@@ -76,6 +76,7 @@ This subdirectory contains all of the project's prefabs, which are reusable game
 This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.
 
 </p>
+
 <a name="1.2"></a>
 <a name="structure-Resources"></a>
 ### Resources
