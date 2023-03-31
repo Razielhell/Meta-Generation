@@ -2,90 +2,6 @@
 
 This Unity project contains several Virtual Reality trainings and includes several directories with different types of assets, such as scripts, scenes, prefabs, textures, and audio files. In this README file, we will provide an overview of each directory and describe its contents.
 
-<pre>
-Assets
-    <a name="#structure-developers">_Developers</a>(Use a `_`to keep this folder at the top)
-        DeveloperName
-            (Work in progress assets)
-    <a name="structure-top-level">ProjectName</a>
-          Project Structure
-
-_Developers
-
-	[DeveloperName]
-
-	- Art
-
-		- Materials
-		
-		- Models
-		
-		- Shaders
-		
-		- Textures
-		
-	- Audio
-	
-		- AudioClip
-		
-		- AudioMixer
-		
-		- Music
-		
-	- Prefabs
-	
-	- Scripts
-	
-	
-
-Documentation
-*Oculus
-Plugins
-ProjectReferences
-
-Art
-
-Materials
-
-Models
-
-Shaders
-
-Textures
-
-Audio
-
-AudioClip
-
-AudioMixer
-
-Music
-
-Prefabs
-
-Scripts
-
-Resources
-Scenes
-
-[ProjectName]
-
-Scene
-
-[Project LightingData]
-
-LightingData
-
-NavMesh
-
-StreamingAssets
-
-Hero.db3
-
-*XR
-*XRI
-
-</pre>
 ## Sections
 
 > 1.0 [Developers](#structure-Developers)
@@ -204,6 +120,91 @@ If the project includes a database, this file may contain the database used by t
 <a name="structure-XR"></a>
 ### XR
 This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.
+
+<pre>
+Assets
+    <a name="#structure-developers">_Developers</a>(Use a `_`to keep this folder at the top)
+        DeveloperName
+            (Work in progress assets)
+    <a name="structure-top-level">ProjectName</a>
+          Project Structure
+
+_Developers
+
+	[DeveloperName]
+
+	- Art
+
+		- Materials
+		
+		- Models
+		
+		- Shaders
+		
+		- Textures
+		
+	- Audio
+	
+		- AudioClip
+		
+		- AudioMixer
+		
+		- Music
+		
+	- Prefabs
+	
+	- Scripts
+	
+	
+
+Documentation
+*Oculus
+Plugins
+ProjectReferences
+
+Art
+
+Materials
+
+Models
+
+Shaders
+
+Textures
+
+Audio
+
+AudioClip
+
+AudioMixer
+
+Music
+
+Prefabs
+
+Scripts
+
+Resources
+Scenes
+
+[ProjectName]
+
+Scene
+
+[Project LightingData]
+
+LightingData
+
+NavMesh
+
+StreamingAssets
+
+Hero.db3
+
+*XR
+*XRI
+
+</pre>
 
 <h1 align="center"> Hero Cross Reality Application - Hierarchy Structure </h1>
 
