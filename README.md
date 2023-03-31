@@ -57,7 +57,6 @@ This directory contains subdirectories with different types of assets used in th
 <h2>Art</h2>
 
 This subdirectory contains all of the project's art assets, such as :
-
 - materials
 - models
 - shaders 
@@ -65,7 +64,6 @@ This subdirectory contains all of the project's art assets, such as :
 
 <h2>Audio</h2>
 This subdirectory contains all of the project's audio assets, such as :
-
 - AudioClips
 - AudioMixers
 - music
