@@ -33,10 +33,10 @@ This directory includes files and documents intended for developers working on t
 | -------------  | ------------- | ------------- |
 |Giorgos Ntakakis | Art | Materials,Models,Shaders,Textures |
 |Giorgos Ntakakis | Audio | AudioClips, AudioMixers, Music |
-|Giorgos Paragioudakis | Art | Materials, Models, Shaders, Textures |
-|Giorgos Paragioudakis | Audio | AudioClips, AudioMixers, Music |
 |Giorgos Ntakakis | Prefabs | - |
 |Giorgos Ntakakis | Scripts | - |
+|Giorgos Paragioudakis | Art | Materials, Models, Shaders, Textures |
+|Giorgos Paragioudakis | Audio | AudioClips, AudioMixers, Music |
 |Giorgos Paragioudakis | Prefabs | - |
 |Giorgos Paragioudakis | Scripts | - |
 
