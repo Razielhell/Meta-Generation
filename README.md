@@ -53,13 +53,13 @@ This Unity project contains several Virtual Reality trainings and includes sever
 	
 		-
 
-	- <a name="structure-Documentation">Documentation</a>
+	_<a name="structure-Documentation">Documentation</a>
 
 		- <a name="structure-Oculus">Oculus</a>
 
 			- <a name="structure-Plugins">Plugins</a>
 
-				- <a name="structure-ProjectReferences"> ProjectReferences</a>
+				- <a name="structure-ProjectReferences">ProjectReferences</a>
 
 		
 		_Resources
