@@ -156,12 +156,11 @@ This section contains all the game objects related to the user interface in the 
 
 <h2 align="center"> WORLD </h2>
 
-<p align="center"> 
 | This section contains all the game objects related to the world in the project. |
 | ------------- |
 | Content Cell  |
 | Content Cell  |
-</p>
+
 - i.
 - ii.
 - iii.
