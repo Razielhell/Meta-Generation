@@ -16,6 +16,90 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.5 [XR](#structure-XR)
 
+<pre>
+Assets
+    <a name="#structure-developers">_Developers</a>(Use a `_`to keep this folder at the top)
+        DeveloperName
+            (Work in progress assets)
+    <a name="structure-top-level">ProjectName</a>
+          Project Structure
+
+_Developers
+
+	[DeveloperName]
+
+	- Art
+
+		- Materials
+		
+		- Models
+		
+		- Shaders
+		
+		- Textures
+		
+	- Audio
+	
+		- AudioClip
+		
+		- AudioMixer
+		
+		- Music
+		
+	- Prefabs
+	
+	- Scripts
+	
+	
+
+Documentation
+*Oculus
+Plugins
+ProjectReferences
+
+Art
+
+Materials
+
+Models
+
+Shaders
+
+Textures
+
+Audio
+
+AudioClip
+
+AudioMixer
+
+Music
+
+Prefabs
+
+Scripts
+
+Resources
+Scenes
+
+[ProjectName]
+
+Scene
+
+[Project LightingData]
+
+LightingData
+
+NavMesh
+
+StreamingAssets
+
+Hero.db3
+
+*XR
+*XRI
+
+</pre>
 
 <a name="1.0"></a>
 <a name="structure-Developers"></a>
@@ -121,90 +205,6 @@ If the project includes a database, this file may contain the database used by t
 ### XR
 This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.
 
-<pre>
-Assets
-    <a name="#structure-developers">_Developers</a>(Use a `_`to keep this folder at the top)
-        DeveloperName
-            (Work in progress assets)
-    <a name="structure-top-level">ProjectName</a>
-          Project Structure
-
-_Developers
-
-	[DeveloperName]
-
-	- Art
-
-		- Materials
-		
-		- Models
-		
-		- Shaders
-		
-		- Textures
-		
-	- Audio
-	
-		- AudioClip
-		
-		- AudioMixer
-		
-		- Music
-		
-	- Prefabs
-	
-	- Scripts
-	
-	
-
-Documentation
-*Oculus
-Plugins
-ProjectReferences
-
-Art
-
-Materials
-
-Models
-
-Shaders
-
-Textures
-
-Audio
-
-AudioClip
-
-AudioMixer
-
-Music
-
-Prefabs
-
-Scripts
-
-Resources
-Scenes
-
-[ProjectName]
-
-Scene
-
-[Project LightingData]
-
-LightingData
-
-NavMesh
-
-StreamingAssets
-
-Hero.db3
-
-*XR
-*XRI
-
-</pre>
 
 <h1 align="center"> Hero Cross Reality Application - Hierarchy Structure </h1>
 
