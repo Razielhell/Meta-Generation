@@ -40,7 +40,6 @@ This directory includes files and documents intended for developers working on t
 |Giorgos Paragioudakis | Prefabs | ? |
 |Giorgos Paragioudakis | Scripts | ? |
 
-
 <a name="1.1"></a>
 <a name="structure-Documentation"></a>
 ### 1.1 Documentation
@@ -174,9 +173,18 @@ This section describes the hierarchy of the game objects in the Unity project an
 <a name="structure-UI"></a>
 ### 2.2 UI
 
+- SCREEN UI
+- WORLD UI
+
 <a name="2.3"></a>
 <a name="structure-WORLD"></a>
 ### 2.3 WORLD
+
+- INDOOR
+- BOUNDARIES
+- FLOOR
+- INTERACTABLES
+- TRIAGE
 
 <a name="2.4"></a>
 <a name="structure-RUNTIME"></a>
