@@ -58,10 +58,10 @@ This directory contains subdirectories with different types of assets used in th
 
 This subdirectory contains all of the project's art assets, such as :
 
-- materials
-- models
-- shaders 
-- and textures
+- Materials
+- Models
+- Shaders
+- Textures
 
 <h2>Audio</h2>
 This subdirectory contains all of the project's audio assets, such as :
@@ -69,7 +69,7 @@ This subdirectory contains all of the project's audio assets, such as :
 
 - AudioClips
 - AudioMixers
-- music
+- Music
 
 <h2>Prefabs</h2>
 This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene.
