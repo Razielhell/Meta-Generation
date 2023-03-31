@@ -27,6 +27,9 @@ This Unity project contains several Virtual Reality trainings and includes sever
 <a name="structure-Developers"></a>
 ### 1.0 Developers
 
+This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.
+
+
 <a name="1.1"></a>
 <a name="structure-Documentation"></a>
 ### 1.1 Documentation
