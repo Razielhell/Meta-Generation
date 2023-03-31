@@ -108,13 +108,13 @@ This subdirectory contains the scene files for the project.
 - Project LightingData:
 This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
-| Project Name | Scene | Project LightingData |
-| -------------  | ------------- | ------------- |
-|ACMC | - | - |
-|MCI | - | - |
-|COACE | - | - |
-|GTB | - | - |
-|UTSW | - | - |
+| Project Name | Scene | Project Lighting Data | Navmesh |
+| -------------  | ------------- | ------------- | ------ |
+|ACMC | - | - | |
+|MCI | - | - | |
+|COACE | - | - | |
+|GTB | - | - | |
+|UTSW | - | - | |
 
 <a name="1.7"></a>
 <a name="structure-StreamingAssets"></a>
