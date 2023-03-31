@@ -14,9 +14,29 @@ _Developers
 
 	[DeveloperName]
 
-		- Art
+	- Art
 
-		- 
+		- Materials
+		
+		- Models
+		
+		- Shaders
+		
+		- Textures
+		
+	- Audio
+	
+		- AudioClip
+		
+		- AudioMixer
+		
+		- Music
+		
+	- Prefabs
+	
+	- Scripts
+	
+	
 
 Documentation
 *Oculus
