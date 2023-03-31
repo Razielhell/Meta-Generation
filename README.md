@@ -134,7 +134,7 @@ This directory may contain any files related to XR (Extended Reality) integratio
 
 This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
 
-#### Sections
+## Sections
 
 > 2.0 [PREREQUISITES](#structure-PREREQUISITES)
 
