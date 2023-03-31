@@ -31,12 +31,12 @@ This directory includes files and documents intended for developers working on t
 
 | Developer Name | Giorgos Paragioudakis |
 | -------------  | ------------- |
-| Art   | Content Cell  |
-| Content Cell   | Content Cell  |
-- Materials
+| Art - Materials
 - Models
 - Shaders
-- Textures
+- Textures   | Content Cell  |
+| Content Cell   | Content Cell  |
+
 
 <a name="1.1"></a>
 <a name="structure-Documentation"></a>
