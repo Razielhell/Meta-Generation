@@ -154,7 +154,7 @@ This section contains all the game objects related to the user interface in the 
 - iii.
 - iv.
 
-<h2> align="center" - WORLD </h2>
+<p> <h2> align="center" - WORLD </h2>
 
 | This section contains all the game objects related to the world in the project. |
 | ------------- |
@@ -165,6 +165,8 @@ This section contains all the game objects related to the user interface in the 
 - ii.
 - iii.
 - iv.
+
+</p>
 
 ## RUNTIME
 This section contains all the game objects related to the runtime in the project.
