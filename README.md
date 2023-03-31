@@ -145,29 +145,38 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 > 2.4 [RUNTIME](#structure-RUNTIME)
 
+<a name="2.0.0"></a>
+<a name="structure-PREREQUISITES"></a>
+### 2.0.0 PREREQUISITES
+
 <a name="2.0.1"></a>
 <a name="structure-LIGHTS"></a>
-### 2.0.1 LIGHTS
+### 2.0.1 - LIGHTS
 
 <a name="2.0.2"></a>
 <a name="structure-AUDIO"></a>
-### 2.0.2 AUDIO
+### 2.0.2 - AUDIO
 
 <a name="2.0.3"></a>
 <a name="structure-EFFECTS"></a>
-### 2.0.3 EFFECTS
+### 2.0.3 - EFFECTS
 
 <a name="2.0.4"></a>
 <a name="structure-EVENTS"></a>
-### 2.0.3 EVENTS
+### 2.0.3 - EVENTS
 
 <a name="2.0.5"></a>
 <a name="structure-ROUTINEMANAGERS"></a>
-### 2.0.5 ROUTINE MANAGERS
+### 2.0.5 - ROUTINE MANAGERS
 
 <a name="2.1"></a>
 <a name="structure-PLAYER"></a>
 ### 2.1 PLAYER
+
+- XR Rig TRIAGE
+- Right Controller
+- Left Controller
+- TR_Bag
 
 <a name="2.2"></a>
 <a name="structure-UI"></a>
