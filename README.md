@@ -155,10 +155,10 @@ This section contains all the game objects related to the user interface in the 
 - iv.
 
 ## WORLD
-<table align="center">
-<th align="center">
-This section contains all the game objects related to the world in the project.
-</table></th>
+
+
+| This section contains all the game objects related to the world in the project. |
+
 
 - i.
 - ii.
