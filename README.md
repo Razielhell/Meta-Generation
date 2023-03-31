@@ -34,33 +34,79 @@ This directory includes files and documents intended for developers working on t
 <a name="structure-Documentation"></a>
 ### 1.1 Documentation
 
+This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications.
+
 <a name="1.2"></a>
 <a name="structure-Oculus"></a>
 ### 1.2 Oculus
+
+If this project is intended for use with Oculus devices, this subdirectory may contain specific documentation related to Oculus integration.
 
 <a name="1.3"></a>
 <a name="structure-Plugins"></a>
 ### 1.3 Plugins
 
+This directory contains any plugins or external libraries used by the project.
+
 <a name="1.4"></a>
 <a name="structure-ProjectReferences"></a>
 ### 1.4 ProjectReferences
+
+This directory contains subdirectories with different types of assets used in the project.
+
+* Art
+This subdirectory contains all of the project's art assets, such as 
+- materials, 
+- models, 
+- shaders, 
+- and textures.
+
+* Audio
+This subdirectory contains all of the project's audio assets, such as 
+- AudioClips, 
+- AudioMixers, and 
+- music.
+
+* Prefabs
+This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene.
+
+* Scripts
+This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.
 
 <a name="1.5"></a>
 <a name="structure-Resources"></a>
 ### 1.5 Resources
 
+This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.
+
 <a name="1.6"></a>
 <a name="structure-Scenes"></a>
 ### 1.6 Scenes
+
+This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.
+
+- [ProjectName]
+This subdirectory contains the scenes for the project, organized by project name.
+
+- Scene
+This subdirectory contains the scene files for the project.
+
+- [Project LightingData]
+This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
 <a name="1.7"></a>
 <a name="structure-StreamingAssets"></a>
 ### 1.7 StreamingAssets
 
+This directory contains any streaming assets used by the project, such as databases or other files used to store game data.
+
+- Hero.db3
+If the project includes a database, this file may contain the database used by the project.
+
 <a name="1.8"></a>
 <a name="structure-XR"></a>
 ### 1.8 XR
+This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.
 
 # Hero Cross Reality Application - Hierarchy Structure
 This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
