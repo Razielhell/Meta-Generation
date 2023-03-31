@@ -7,10 +7,22 @@ describe its contents.
 
 | _Developers | Dev1 | Dev2 | Dev3 | Dev4 |
 | :---: | :---:| :---:	| :---: | :---: |
-| Documentation     | | | | | | | | |
-| Oculus 			| | | | | | | | |
-| Plugins 			| | | | | | | | | 
-| ProjectReferences | | | | | | | | | 
-| Art 				| | | | | | | | |
-| Audio 			| | | | | | | | |
+| Documentation     	| | | | | | | | |
+| Oculus 				| | | | | | | | |
+| Plugins 				| | | | | | | | | 
+| ProjectReferences 	| | | | | | | | | 
+| Art 					| | | | | | | | |
+| Audio 				| | | | | | | | |
+| Prefabs				| | | | | | | | |
+| Scripts				| | | | | | | | |
+| Resources 			| | | | | | | | |
+| Scenes				| | | | | | | | |
+| ProjectName			| | | | | | | | |
+| Project LightingData	| | | | | | | | |
+| StreamingAssets		| | | | | | | | |
+| XR 					| | | | | | | | |
+| Audio 				| | | | | | | | |
+| Audio 				| | | | | | | | |
 
+# Hero Cross Reality Applcation - Hierarchy Structure
+This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
