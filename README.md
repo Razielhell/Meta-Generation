@@ -54,7 +54,7 @@ This directory contains any plugins or external libraries used by the project.
 
 This directory contains subdirectories with different types of assets used in the project.
 
-* Art
+<h2>Art</h2>
 
 This subdirectory contains all of the project's art assets, such as :
 
