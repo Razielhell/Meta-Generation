@@ -56,25 +56,23 @@ This Unity project contains several Virtual Reality trainings and includes sever
 				- <a name="structure-ProjectReferences"> ProjectReferences</a>
 
 		
+		- Resources
+		
+		- Scenes
 
+			- [ProjectName]
+				
+				- Scene
+				
+			- [Project LightingData]
+			
+				- LightingData
+			
+			- NavMesh
 
+		- StreamingAssets
 
-Resources
-Scenes
-
-[ProjectName]
-
-Scene
-
-[Project LightingData]
-
-LightingData
-
-NavMesh
-
-StreamingAssets
-
-Hero.db3
+			- Hero.db3
 
 *XR
 *XRI
