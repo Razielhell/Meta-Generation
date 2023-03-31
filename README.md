@@ -5,7 +5,7 @@ directories with different types of assets, such as scripts, scenes, prefabs, te
 and audio files. In this README file, we will provide an overview of each directory and
 describe its contents.
 
-| _Developers | P1| P2 | P3 | P4 | P5 |
+| _Developers | P1 | P2 | P3 | P4 | P5 |
 | ---------------------- | -----------------------------| | -----------------------------| | -----------------------------| | -----------------------------|
 | git status   	 | |
 | git diff       | |
