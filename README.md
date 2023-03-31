@@ -1,4 +1,4 @@
-<h1 align="center"> Hero Cross Reality Application - Project Structure </h1>
+[<h1 align="center"> Hero Cross Reality Application - Project Structure </h1>
 
 This Unity project contains several Virtual Reality trainings and includes several directories with different types of assets, such as scripts, scenes, prefabs, textures, and audio files. In this README file, we will provide an overview of each directory and describe its contents.
 
@@ -77,7 +77,6 @@ This directory contains the project's documentation, which may include user manu
 <p align="center">This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.
 </p>
 <h2 align="center"></h2>
-
 
 <a name="1.2"></a>
 <a name="structure-Resources"></a>
@@ -201,3 +200,4 @@ This section describes the hierarchy of the game objects in the Unity project an
 <a name="2.4"></a>
 <a name="structure-RUNTIME"></a>
 ### RUNTIME
+](https://github.com/Razielhell/Meta-Generation/blob/Documentation-for-project-structure-and-hierarchy/README.md)
