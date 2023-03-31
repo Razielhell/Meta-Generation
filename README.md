@@ -28,8 +28,8 @@ describe its contents.
 This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
 
 | PREREQUISITES | Lights | Audio | Effects | Events | Routine & Managers |
-| :---: | :---:| :---:	| :---: | :---: |
+| :---: | :---:| :---:	| :---: | :---: | :---: |
 | PLAYER    	 | | | | | | | | |
 | UI			 | | | | | | | | |
-| WORLD 		 | | | | | | | | | 
-| RUNTIME		 | | | | | | | | | 
+| WORLD 		 | | | | | | | | |
+| RUNTIME		 | | | | | | | | |
