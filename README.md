@@ -6,7 +6,7 @@ and audio files. In this README file, we will provide an overview of each direct
 describe its contents.
 
 | _Developers | P1 |
-| :---: | :---: |
+| :---: | :---: | :---: | | :---: | | :---: | | :---: | | :---: |
 | git status   	 | |
 | git diff       | |
 | git status   	 | |
