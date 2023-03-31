@@ -131,6 +131,7 @@ If the project includes a database, this file may contain the database used by t
 This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.
 
 <h1 align="center"> Hero Cross Reality Application - Hierarchy Structure </h1>
+
 This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
 
 > 2.0 [PREREQUISITES](#structure-PREREQUISITES)
