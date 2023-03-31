@@ -20,7 +20,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.7 [StreamingAssets](#structure-StreamingAssets)
 
-> 1.8 [XR](#scene-XR)
+> 1.8 [XR](#structure-XR)
 
 
 <a name="1.0"></a>
