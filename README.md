@@ -6,15 +6,17 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.0 [Developers](#structure-Developers)
 
-> 1.1 [Documentation](#structure-Documentation)
+> 1.1 [Art](#structure-Art)
+>  
+> 1.2 [Documentation](#structure-Documentation)
 
-> 1.2 [Resources](#structure-Resources)
+> 1.3 [Resources](#structure-Resources)
 
-> 1.3 [Scenes](#structure-Scenes)
+> 1.4 [Scenes](#structure-Scenes)
 
-> 1.4 [StreamingAssets](#structure-StreamingAssets)
+> 1.5 [StreamingAssets](#structure-StreamingAssets)
 
-> 1.5 [XR](#structure-XR)
+> 1.6 [XR](#structure-XR)
 
 <pre>
 
@@ -22,8 +24,8 @@ This Unity project contains several Virtual Reality trainings and includes sever
 	_Developers</a>
 
 		- [DeveloperName]
-
-	_Art
+<a name="structure-Developers">
+	_Art</a>
 
 		- Materials
 		
