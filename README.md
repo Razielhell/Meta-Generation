@@ -154,19 +154,12 @@ This section contains all the game objects related to the user interface in the 
 - iii.
 - iv.
 
-## WORLD
+:---: WORLD
 
 | This section contains all the game objects related to the world in the project.  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
-|  | | Second Header |
-| ------------------------------------------------------------------------------- | | ------------- |            													  | | ------------- |
-| Content Cell                                     								  | | Content Cell  |
-| Content Cell  																  | | Content Cell  |
-
-
 
 - i.
 - ii.
