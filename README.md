@@ -32,9 +32,9 @@ This directory includes files and documents intended for developers working on t
 | Developer Name | Folders | Content |
 | -------------  | ------------- | ------------- |
 |Giorgos Ntakakis | Art | Materials,Models,Shaders,Textures |
-|Giorgos Ntakakis | Audio | - AudioClips, AudioMixers, Music |
+|Giorgos Ntakakis | Audio | AudioClips, AudioMixers, Music |
 |Giorgos Paragioudakis | Art | Materials, Models, Shaders, Textures |
-|Giorgos Paragioudakis | Audio | - AudioClips, AudioMixers, Music |
+|Giorgos Paragioudakis | Audio | AudioClips, AudioMixers, Music |
 
 
 <a name="1.1"></a>
