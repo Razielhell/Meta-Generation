@@ -31,7 +31,9 @@ This directory includes files and documents intended for developers working on t
 
 | Developer Name | Folders | Content |
 | -------------  | ------------- | ------------- |
+|Giorgos Ntakakis | Art | Materials,Models,Shaders,Textures |
 |Giorgos Paragioudakis | Art | Materials,Models,Shaders,Textures |
+
 
 
 <a name="1.1"></a>
