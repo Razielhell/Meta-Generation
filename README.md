@@ -49,7 +49,6 @@ This directory contains the project's documentation, which may include user manu
 <a name="1.4"></a>
 <a name="structure-ProjectReferences"></a>
 
-<p>
 - Project References : 
 
 <h2 align="center">Art</h2>
@@ -75,7 +74,8 @@ This subdirectory contains all of the project's prefabs, which are reusable game
 <h2 align="center">Scripts</h2>
 This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.
 
-</p>
+<h2 align="center"></h2>
+
 
 <a name="1.2"></a>
 <a name="structure-Resources"></a>
