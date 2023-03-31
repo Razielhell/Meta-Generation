@@ -96,3 +96,62 @@ This Unity project contains several Virtual Reality trainings and includes sever
 			-
 
 </pre>
+
+<a name="1.0"></a>
+<a name="structure-Developers"></a>
+
+<h1 align="center"> Hero Cross Reality Application - Hierarchy Structure </h1>
+
+This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
+
+## Sections
+
+> 1.0 [PREREQUISITES](#structure-PREREQUISITES)
+
+> 1.1 [PLAYER](#structure-PLAYER)
+
+> 1.2 [UI](#structure-UI)
+
+> 1.3 [WORLD](#structure-WORLD)
+
+> 1.4 [RUNTIME](#structure-RUNTIME)
+
+<pre>
+
+<a name="structure-PREREQUISITES"></a>
+
+	_LIGHTS
+	
+	_Audio
+	
+	_EFFECTS
+	
+	_EVENTS
+	
+	_ROUTINE & MANAGERS
+		
+		
+	_XR Rig Triage
+	
+	_Right Controller
+		
+	_Left Controller
+		
+	_TR_Bag
+	
+
+	_SCREEN UI
+	
+	_WORLD UI
+
+	_INDOOR
+
+	_BOUNDARIES
+	
+	_FLOOR
+	
+	_INTERACTABLES
+	
+	_TRIAGE
+	
+</pre>
