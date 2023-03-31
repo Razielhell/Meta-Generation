@@ -159,23 +159,23 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 <a name="2.0.1"></a>
 <a name="structure-LIGHTS"></a>
-- 2.0.1 - LIGHTS
+- LIGHTS
 
 <a name="2.0.2"></a>
 <a name="structure-AUDIO"></a>
-- 2.0.2 - AUDIO
+- AUDIO
 
 <a name="2.0.3"></a>
 <a name="structure-EFFECTS"></a>
-- 2.0.3 - EFFECTS
+- EFFECTS
 
 <a name="2.0.4"></a>
 <a name="structure-EVENTS"></a>
-- 2.0.3 - EVENTS
+- EVENTS
 
 <a name="2.0.5"></a>
 <a name="structure-ROUTINEMANAGERS"></a>
-- 2.0.5 - ROUTINE MANAGERS
+- ROUTINE MANAGERS
 
 <a name="2.1"></a>
 <a name="structure-PLAYER"></a>
