@@ -27,7 +27,7 @@ describe its contents.
 # Hero Cross Reality Applcation - Hierarchy Structure
 This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
 
-| _PREREQUISITES | Lights | Audio | Effects| Events | Routine & Managers |
+| PREREQUISITES | Lights | Audio | Effects| Events | Routine & Managers |
 | :---: | :---:| :---:	| :---: | :---: |
 | PLAYER    	 | | | | | | | | |
 | UI			 | | | | | | | | |
