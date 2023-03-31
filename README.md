@@ -45,23 +45,17 @@ This directory contains the project's documentation, which may include user manu
 <a name="1.2"></a>
 <a name="structure-Oculus"></a>
 
-- Oculus
-
-If this project is intended for use with Oculus devices, this subdirectory may contain specific documentation related to Oculus integration.
+- Oculus : If this project is intended for use with Oculus devices, this subdirectory may contain specific documentation related to Oculus integration.
 
 <a name="1.3"></a>
 <a name="structure-Plugins"></a>
 
-- Plugins
-
-This directory contains any plugins or external libraries used by the project.
+- Plugins : This directory contains any plugins or external libraries used by the project.
 
 <a name="1.4"></a>
 <a name="structure-ProjectReferences"></a>
 
-- Project References
-
-This directory contains subdirectories with different types of assets used in the project.
+- Project References : This directory contains subdirectories with different types of assets used in the project.
 
 <h2>Art</h2>
 
