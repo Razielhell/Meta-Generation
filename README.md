@@ -7,9 +7,9 @@ describe its contents.
 
 ### Sections
 
-> 1.1 _Developers(#structure-folder-names)
+> 1.1 [_Developers] (#structure-folder-names)
 
-> 1.2 Top-Level Folders(#structure-top-level)
+> 1.2 Top-Level Folders (#structure-top-level)
 
 > 1.3 Documentation (#structure-developers)
 
@@ -26,32 +26,3 @@ describe its contents.
 > 1.9 StreamingAssets(#levels)
 
 > 2.0 XR (#structure-ownership)
-
-| _Developers | Dev1 | Dev2 | Dev3 | Dev4 |
-| :---: | :---:| :---:	| :---: | :---: |
-| Documentation     	| | | | | | | | |
-| Oculus 				| | | | | | | | |
-| Plugins 				| | | | | | | | | 
-| ProjectReferences 	| | | | | | | | | 
-| Art 					| | | | | | | | |
-| Audio 				| | | | | | | | |
-| Prefabs				| | | | | | | | |
-| Scripts				| | | | | | | | |
-| Resources 			| | | | | | | | |
-| Scenes				| | | | | | | | |
-| ProjectName			| | | | | | | | |
-| Project LightingData	| | | | | | | | |
-| StreamingAssets		| | | | | | | | |
-| XR 					| | | | | | | | |
-| Audio 				| | | | | | | | |
-| Audio 				| | | | | | | | |
-
-# Hero Cross Reality Applcation - Hierarchy Structure
-This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
-
-| PREREQUISITES | Lights | Audio | Effects | Events | Routine & Managers |
-| :---: | :---:| :---:	| :---: | :---: | :---: |
-| PLAYER    	 | | | | | | | | |
-| UI			 | | | | | | | | |
-| WORLD 		 | | | | | | | | |
-| RUNTIME		 | | | | | | | | |
