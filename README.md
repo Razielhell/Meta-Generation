@@ -200,4 +200,3 @@ This section describes the hierarchy of the game objects in the Unity project an
 <a name="2.4"></a>
 <a name="structure-RUNTIME"></a>
 ### RUNTIME
-](https://github.com/Razielhell/Meta-Generation/blob/Documentation-for-project-structure-and-hierarchy/README.md)
