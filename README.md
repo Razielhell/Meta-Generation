@@ -99,13 +99,13 @@ This directory contains miscellaneous resources that do not fit into any of the 
 
 This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.
 
-- [ProjectName]
+- ProjectName:
 This subdirectory contains the scenes for the project, organized by project name.
 
-- Scene
+- Scene:
 This subdirectory contains the scene files for the project.
 
-- [Project LightingData]
+- Project LightingData:
 This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
 | Project Name | Scene | Project LightingData |
