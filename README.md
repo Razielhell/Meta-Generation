@@ -7,7 +7,7 @@ describe its contents.
 
 ### Sections
 
-> 1.0 [_Developers] (#structure-folder-names)
+> 1.0 [Developers] (#structure-Developers)
 
 > 1.1 Top-Level Folders (#structure-top-level)
 
