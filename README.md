@@ -44,12 +44,13 @@ This Unity project contains several Virtual Reality trainings and includes sever
 		- AudioMixer
 		
 		- Music
-		
-	_Prefabs
+	<a name="structure-Prefabs">	
+	_Prefabs</a>
 		
 		- 
-
-	_Scripts
+		
+<a name="structure-Scripts">
+	_Scripts</a>
 	
 		-
 
@@ -61,10 +62,13 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 				- <a name="structure-ProjectReferences">ProjectReferences</a>
 
+		<a name="structure-Resources">
+		_Resources</a>
 		
-		_Resources
-		
-		_Scenes
+			-
+			
+		<a name="structure-Scenes">	
+		_Scenes</a>
 
 			- [ProjectName]
 				
@@ -76,17 +80,13 @@ This Unity project contains several Virtual Reality trainings and includes sever
 			
 			- NavMesh
 
-		_StreamingAssets
+		<a name="structure-StreamingAssets">
+		_StreamingAssets</a>
 
 			- Hero.db3
 
-		_XR
-		
-			- 
-			
-		_XRI
-		
-			-
+*XR
+*XRI
 
 </pre>
 
