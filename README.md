@@ -29,11 +29,9 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.
 
-| Developer Name | Giorgos Paragioudakis |
-| -------------  | ------------- |
-| Art (Materials,Models,Shaders,Textures) |
-| Content Cell  |
-| Content Cell   | Content Cell  |
+| Developer Name |  | Folders | Content |
+| -------------  | ------------- | ------------- |
+|Giorgos Paragioudakis | Art | Materials,Models,Shaders,Textures |
 
 
 <a name="1.1"></a>
