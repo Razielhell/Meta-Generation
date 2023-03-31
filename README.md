@@ -47,9 +47,12 @@ _Developers
 	
 
 Documentation
-*Oculus
-Plugins
-ProjectReferences
+
+- Oculus
+
+- Plugins
+
+- ProjectReferences
 
 Art
 
