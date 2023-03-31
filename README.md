@@ -60,7 +60,7 @@ This subdirectory contains all of the project's art assets, such as :
 - Shaders
 - Textures
 
-<h2>Audio</h2>
+<h2 align="center">Audio</h2>
 
 This subdirectory contains all of the project's audio assets, such as :
 
@@ -68,10 +68,10 @@ This subdirectory contains all of the project's audio assets, such as :
 - AudioMixers
 - Music
 
-<h2>Prefabs</h2>
+<h2 align="center">Prefabs</h2>
 This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene.
 
-<h2>Scripts</h2>
+<h2 align="center">Scripts</h2>
 This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.
 
 <a name="1.2"></a>
