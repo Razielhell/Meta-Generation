@@ -17,12 +17,6 @@ This Unity project contains several Virtual Reality trainings and includes sever
 > 1.5 [XR](#structure-XR)
 
 <pre>
-Assets
-    <a name="#structure-developers">_Developers</a>(Use a `_`to keep this folder at the top)
-        DeveloperName
-            (Work in progress assets)
-    <a name="structure-top-level">ProjectName</a>
-          Project Structure
 
 _Developers
 
