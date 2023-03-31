@@ -7,24 +7,22 @@ describe its contents.
 
 ### Sections
 
-> 2.1 [Folder Names](#structure-folder-names)
+> 1.0 [_Developers] (#structure-folder-names)
 
-> 1.1 [_Developers] (#structure-folder-names)
+> 1.1 Top-Level Folders (#structure-top-level)
 
-> 1.2 Top-Level Folders (#structure-top-level)
+> 1.2 Documentation (#structure-developers)
 
-> 1.3 Documentation (#structure-developers)
+> 1.3 Oculus (#levels)
 
-> 1.4 Oculus (#levels)
+> 1.4 Plugins(#structure-ownership)
 
-> 1.5 Plugins(#structure-ownership)
+> 1.5 ProjectReferences(#structure-assettypes)
 
-> 1.6 ProjectReferences(#structure-assettypes)
+> 1.6 Resources (#structure-folder-names)
 
-> 1.7 Resources (#structure-folder-names)
+> 1.7 Scenes(#structure-top-level)
 
-> 1.8 Scenes(#structure-top-level)
+> 1.8 StreamingAssets(#levels)
 
-> 1.9 StreamingAssets(#levels)
-
-> 2.0 XR (#structure-ownership)
+> 1.9 XR (#structure-ownership)
