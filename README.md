@@ -31,7 +31,7 @@ This directory includes files and documents intended for developers working on t
 
 | Developer Name | Assets | Folders |
 | -------------  | ------------- | ------------- |
-| {DeveloperName} | Art | Materials, Models,Shaders, Textures |
+| {DeveloperName} | Art | Materials, Models, Shaders, Textures |
 |  | Audio | AudioClips, AudioMixers, Music |
 |  | Prefabs | - |
 |  | Scripts | - |
