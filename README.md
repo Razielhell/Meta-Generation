@@ -72,7 +72,7 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 > 2.0.4 [EVENTS](#structure-EVENTS)
 
-> 2.0.5 [ROUTINE & MANAGERS] (#structure-ROUTINE & MANAGERS)
+> 2.0.5 [ROUTINE and MANAGERS] (#structure-ROUTINE and MANAGERS)
 
 > 2.1 [PLAYER](#structure-PLAYER)
 
@@ -99,8 +99,8 @@ This section describes the hierarchy of the game objects in the Unity project an
 ### 2.0.3 EVENTS
 
 <a name="2.0.5"></a>
-<a name="structure-ROUTINE & MANAGERS"></a>
-### 2.0.5 ROUTINE & MANAGERS
+<a name="structure-ROUTINE and MANAGERS"></a>
+### 2.0.5 ROUTINE and MANAGERS
 
 <a name="2.1"></a>
 <a name="structure-PLAYER"></a>
