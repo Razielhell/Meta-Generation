@@ -6,13 +6,13 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.0 [Developers](#structure-Developers) (This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.)
 
-> 1.1 [Art](#structure-Art) 
+> 1.1 [Art](#structure-Art) (This subdirectory contains all of the project's art assets, such as materials, models, shaders, and textures.)
 
-> 1.2 [Audio](#structure-Audio)
+> 1.2 [Audio](#structure-Audio) (This subdirectory contains all of the project's audio assets, such as AudioClips, AudioMixers, and music.)
 
-> 1.3 [Prefabs](#structure-Prefabs)
+> 1.3 [Prefabs](#structure-Prefabs) (This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene.)
 
-> 1.4 [Scripts](#structure-Scripts)
+> 1.4 [Scripts](#structure-Scripts) (This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.)
 
 > 1.5 [Documentation](#structure-Documentation) (This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications.)
 
