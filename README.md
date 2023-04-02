@@ -64,42 +64,42 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 		- <a name="structure-Oculus">Oculus</a>
 
-			- <a name="structure-Plugins">Plugins</a>
+		- <a name="structure-Plugins">Plugins</a>
 
-				- <a name="structure-ProjectReferences">ProjectReferences</a>
+		- <a name="structure-ProjectReferences">ProjectReferences</a>
 
 		<a name="structure-">
 	_Resources</a>
 		
-			-
+		-
 			
 		<a name="structure-Scenes">	
 	_Scenes</a>
 
-			- ProjectName
+		- ProjectName
 				
-				- Scene
+			- Scene
 				
-			- Project LightingData
+		- Project LightingData
 			
-				- LightingData
+			- LightingData
 			
-			- NavMesh
+		- NavMesh
 
 		<a name="structure-StreamingAssets">
 	_StreamingAssets</a>
 
-			- Hero.db3
+		- Hero.db3
 
 		<a name="structure-">
 	_XR</a>
 			
-			-
+		-
 
 		<a name="structure-">
 	_XRI</a>
 		
-			-
+		-
 
 </pre>
 
