@@ -85,12 +85,12 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 			- Hero.db3
 
-		<a name="structure-XR">
+		<a name="structure-">
 		_XR</a>
 			
 			-
 
-		<a name="structure-XR">
+		<a name="structure-">
 		_XRI</a>
 		
 			-
