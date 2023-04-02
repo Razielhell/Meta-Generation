@@ -6,7 +6,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.0 [Developers](#structure-Developers) (This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.)
 
-> 1.1 [Art](#structure-Art)
+> 1.1 [Art](#structure-Art) 
 
 > 1.2 [Audio](#structure-Audio)
 
@@ -14,15 +14,15 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.4 [Scripts](#structure-Scripts)
 
-> 1.5 [Documentation](#structure-Documentation)
+> 1.5 [Documentation](#structure-Documentation) (This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications.)
 
-> 1.6 [Resources](#structure-Resources)
+> 1.6 [Resources](#structure-Resources) (This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.)
 
-> 1.7 [Scenes](#structure-Scenes)
+> 1.7 [Scenes](#structure-Scenes) (This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.)
 
-> 1.8 [StreamingAssets](#structure-StreamingAssets)
+> 1.8 [StreamingAssets](#structure-StreamingAssets) (This directory contains any streaming assets used by the project, such as databases or other files used to store game data.)
 
-> 1.9 [XR](#structure-XR)
+> 1.9 [XR](#structure-XR) (This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.)
 
 > 2.0 [XRI](#structure-XRI)
 
@@ -112,15 +112,15 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 ## Sections
 
-> 1.0 [PREREQUISITES](#structure-PREREQUISITES)
+> 1.0 [PREREQUISITES](#structure-PREREQUISITES) (This section contains all the game objects that is necessary for the current scene.)
 
-> 1.1 [PLAYER](#structure-PLAYER)
+> 1.1 [PLAYER](#structure-PLAYER) (This section contains all the game objects related to the player in the project.)
 
-> 1.2 [UI](#structure-UI)
+> 1.2 [UI](#structure-UI) (This section contains all the game objects related to the user interface in the project.)
 
-> 1.3 [WORLD](#structure-WORLD)
+> 1.3 [WORLD](#structure-WORLD) (This section contains all the game objects related to the world in the project.)
 
-> 1.4 [RUNTIME](#structure-RUNTIME)
+> 1.4 [RUNTIME](#structure-RUNTIME) (This section contains all the game objects related to the runtime in the project.)
 
 <pre>
 
