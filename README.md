@@ -77,7 +77,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 	_Scenes</a>
 
 		- ProjectName
-				
+				 
 			- Scene
 				
 		- Project LightingData
