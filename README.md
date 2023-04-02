@@ -29,7 +29,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 <pre>
 
 <a name="structure-Developers">
-	_Developers</a>
+	_Developers</a> This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.
 
 		- [DeveloperName]
 <a name="structure-Art">
