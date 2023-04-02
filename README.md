@@ -4,7 +4,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 ## Sections
 
-> 1.0 [Developers](#structure-Developers)
+> 1.0 [Developers] (This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.)(#structure-Developers) 
 
 > 1.1 [Art](#structure-Art)
 
@@ -29,7 +29,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 <pre>
 
 <a name="structure-Developers">
-	_Developers</a> This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.
+	_Developers</a>
 
 		- [DeveloperName]
 <a name="structure-Art">
