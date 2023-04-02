@@ -10,15 +10,21 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 > 1.2 [Audio](#structure-Audio)
 
-> 1.3 [Documentation](#structure-Documentation)
+> 1.3 [Prefabs](#structure-Prefabs)
 
-> 1.4 [Resources](#structure-Resources)
+> 1.4 [Scripts](#structure-Scripts)
 
-> 1.5 [Scenes](#structure-Scenes)
+> 1.5 [Documentation](#structure-Documentation)
 
-> 1.6 [StreamingAssets](#structure-StreamingAssets)
+> 1.6 [Resources](#structure-Resources)
 
-> 1.7 [XR](#structure-XR)
+> 1.7 [Scenes](#structure-Scenes)
+
+> 1.8 [StreamingAssets](#structure-StreamingAssets)
+
+> 1.9 [XR](#structure-XR)
+
+> 2.0 [XRI](#structure-XRI)
 
 <pre>
 
@@ -44,12 +50,12 @@ This Unity project contains several Virtual Reality trainings and includes sever
 		- AudioMixer
 		
 		- Music
-	<a name="structure-Prefabs">	
+	<a name="structure-">	
 	_Prefabs</a>
 		
 		- 
 		
-<a name="structure-Scripts">
+<a name="structure-">
 	_Scripts</a>
 	
 		-
@@ -62,36 +68,36 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 				- <a name="structure-ProjectReferences">ProjectReferences</a>
 
-		<a name="structure-Resources">
-		_Resources</a>
+		<a name="structure-">
+	_Resources</a>
 		
 			-
 			
 		<a name="structure-Scenes">	
-		_Scenes</a>
+	_Scenes</a>
 
-			- [ProjectName]
+			- ProjectName
 				
 				- Scene
 				
-			- [Project LightingData]
+			- Project LightingData
 			
 				- LightingData
 			
 			- NavMesh
 
 		<a name="structure-StreamingAssets">
-		_StreamingAssets</a>
+	_StreamingAssets</a>
 
 			- Hero.db3
 
 		<a name="structure-">
-		_XR</a>
+	_XR</a>
 			
 			-
 
 		<a name="structure-">
-		_XRI</a>
+	_XRI</a>
 		
 			-
 
