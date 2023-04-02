@@ -118,40 +118,51 @@ This section describes the hierarchy of the game objects in the Unity project an
 
 <pre>
 
-<a name="structure-PREREQUISITES"></a>
+<a name="structure-PREREQUISITES">
+		_PREREQUISITES</a>
 
-	_LIGHTS
+			- LIGHTS
 	
-	_Audio
+			- Audio
 	
-	_EFFECTS
+			- EFFECTS
 	
-	_EVENTS
+			- EVENTS
 	
-	_ROUTINE & MANAGERS
+			- ROUTINE & MANAGERS
 		
+<a name="structure-PLAYER">
+		_PLAYER</a>
 		
-	_XR Rig Triage
+			- XR Rig Triage
 	
-	_Right Controller
+			- Right Controller
 		
-	_Left Controller
+			- Left Controller
 		
-	_TR_Bag
-	
+			- TR_Bag
 
-	_SCREEN UI
+<a name="structure-UI">
+		_UI</a>
+		
+			- SCREEN UI
 	
-	_WORLD UI
+			- WORLD UI
 
-	_INDOOR
+<a name="structure-WORLD">
+		_WORLD</a>
 
-	_BOUNDARIES
+			- INDOOR
+
+			- BOUNDARIES
 	
-	_FLOOR
+			- FLOOR
 	
-	_INTERACTABLES
+			- INTERACTABLES
 	
-	_TRIAGE
-	
+			- TRIAGE
+			
+<a name="structure-">
+		_RUNTIME</a>
+		
 </pre>
