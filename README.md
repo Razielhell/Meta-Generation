@@ -68,41 +68,33 @@ _Developers</a>
 	- Models
 	- Shaders
 	- Textures
-<a name="structure-Audio">	
-	_Audio</a>
-		- AudioClip		
-		- AudioMixer		
-		- Music
-	<a name="structure-">	
-	_Prefabs</a>
+<a name="structure-Audio">_Audio</a>
+	- AudioClip		
+	- AudioMixer		
+	- Music
+<a name="structure-">_Prefabs</a>
+	-
+<a name="structure-">_Scripts</a>
+	-
+<a name="structure-Documentation">_Documentation</a>
+	- <a name="structure-Oculus">Oculus</a>
+	- <a name="structure-Plugins">Plugins</a>
+	- <a name="structure-ProjectReferences">ProjectReferences</a>
+<a name="structure-">_Resources</a>
+	-	
+<a name="structure-Scenes">_Scenes</a>
+	- ProjectName
+		- Scene
+	- Project LightingData
+		- LightingData
+	- NavMesh
 		- 
-<a name="structure-">
-	_Scripts</a>
-		-
-	_<a name="structure-Documentation">Documentation</a>
-		- <a name="structure-Oculus">Oculus</a>
-		- <a name="structure-Plugins">Plugins</a>
-		- <a name="structure-ProjectReferences">ProjectReferences</a>
-		<a name="structure-">
-	_Resources</a>
-		-	
-		<a name="structure-Scenes">	
-	_Scenes</a>
-		- ProjectName
-			- Scene
-		- Project LightingData
-			- LightingData
-		- NavMesh
-			- 
-		<a name="structure-StreamingAssets">
-	_StreamingAssets</a>
-		- Hero.db3
-		<a name="structure-">
-	_XR</a>
-		-
-		<a name="structure-">
-	_XRI</a>
-		-
+<a name="structure-StreamingAssets">_StreamingAssets</a>
+	- Hero.db3
+<a name="structure-">_XR</a>
+	-
+<a name="structure-">_XRI</a>
+	-
 </pre>
 
 <a name="1.0"></a>
