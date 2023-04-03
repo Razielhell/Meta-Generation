@@ -62,7 +62,6 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 <pre>
 <a name="structure-Developers">
 	_Developers</a>
-
 		- [DeveloperName]
 <a name="structure-Art">
 	_Art</a>
@@ -77,55 +76,34 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 		- Music
 	<a name="structure-">	
 	_Prefabs</a>
-		
 		- 
-		
 <a name="structure-">
 	_Scripts</a>
-	
 		-
-
 	_<a name="structure-Documentation">Documentation</a>
-
 		- <a name="structure-Oculus">Oculus</a>
-
 		- <a name="structure-Plugins">Plugins</a>
-
 		- <a name="structure-ProjectReferences">ProjectReferences</a>
-
 		<a name="structure-">
 	_Resources</a>
-		
-		-
-			
+		-	
 		<a name="structure-Scenes">	
 	_Scenes</a>
-
 		- ProjectName
-				
 			- Scene
-				
 		- Project LightingData
-			
 			- LightingData
-			
 		- NavMesh
-
+			- 
 		<a name="structure-StreamingAssets">
 	_StreamingAssets</a>
-
 		- Hero.db3
-
 		<a name="structure-">
 	_XR</a>
-			
 		-
-
 		<a name="structure-">
 	_XRI</a>
-		
 		-
-
 </pre>
 
 <a name="1.0"></a>
@@ -165,50 +143,29 @@ This section contains all the game objects related to the runtime in the project
 <pre>
 <a name="structure-PREREQUISITES">
 	_PREREQUISITES</a>
-
 		- LIGHTS
-	
 		- Audio
-	
 		- EFFECTS
-	
 		- EVENTS
-	
 		- ROUTINE & MANAGERS
-		
 <a name="structure-PLAYER">
 	_PLAYER</a>
-		
 		- XR Rig Triage
-	
 		- Right Controller
-		
 		- Left Controller
-		
 		- TR_Bag
-
 <a name="structure-UI">
 	_UI</a>
-		
 		- SCREEN UI
-	
 		- WORLD UI
-
 <a name="structure-WORLD">
 	_WORLD</a>
-
 		- INDOOR
-
 		- BOUNDARIES
-	
 		- FLOOR
-	
 		- INTERACTABLES
-	
-		- TRIAGE
-			
+		- TRIAGE	
 <a name="structure-">
 	_RUNTIME</a>
-		
 		- 
 </pre>
