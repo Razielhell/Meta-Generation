@@ -6,10 +6,10 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 ## Description
 
-<a align="center">| Developers | Art | Audio | 
+| Developers | Art | Audio | 
 | :---: | :---: | :---: |
 | This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process. | This subdirectory contains all of the project's art assets, such as materials, models, shaders, and textures. | This subdirectory contains all of the project's audio assets, such as AudioClips, AudioMixers, and music. |
-</a>
+
 | Prefabs | Scripts | Documentation |
 | :---: | :---: | :---: |
 | This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene. | This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality. | This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications. |
