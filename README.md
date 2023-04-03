@@ -2,8 +2,6 @@
 
 This Unity project contains several Virtual Reality trainings and includes several directories with different types of assets, such as scripts, scenes, prefabs, textures, and audio files. In this README file, we will provide an overview of each directory and describe its contents.
 
-
-
 ## Description
 
 - Developers :
@@ -169,8 +167,9 @@ This section contains all the game objects related to the runtime in the project
 
 > 1.4 [RUNTIME](#structure-RUNTIME) 
 
-<pre>
+## Paths
 
+<pre>
 <a name="structure-PREREQUISITES">
 	_PREREQUISITES</a>
 
