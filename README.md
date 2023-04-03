@@ -8,9 +8,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 | Developers | Art |
 | --- | --- |
-| (This directory includes files and documents intended for developers working 
-on this project. It may contain guidelines, instructions, scripts, or other resources
- to facilitate the development process.) | (This subdirectory contains all of the project's art assets, such as materials, models, shaders, and textures.) |
+| (This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process.) | (This subdirectory contains all of the project's art assets, such as materials, models, shaders, and textures.) |
 
 
 
