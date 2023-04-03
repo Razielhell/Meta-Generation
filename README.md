@@ -145,17 +145,30 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 
 This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
 
+## Description
+
+- Prerequisites :
+This section contains all the game objects that is necessary for the current scene.
+- Player :
+This section contains all the game objects related to the player in the project.
+- UI :
+This section contains all the game objects related to the user interface in the project.
+- World :
+This section contains all the game objects related to the world in the project.
+- Runtime :
+This section contains all the game objects related to the runtime in the project.
+
 ## Sections
 
-> 1.0 [PREREQUISITES](#structure-PREREQUISITES) (This section contains all the game objects that is necessary for the current scene.)
+> 1.0 [PREREQUISITES](#structure-PREREQUISITES) 
 
-> 1.1 [PLAYER](#structure-PLAYER) (This section contains all the game objects related to the player in the project.)
+> 1.1 [PLAYER](#structure-PLAYER) 
 
-> 1.2 [UI](#structure-UI) (This section contains all the game objects related to the user interface in the project.)
+> 1.2 [UI](#structure-UI) 
 
-> 1.3 [WORLD](#structure-WORLD) (This section contains all the game objects related to the world in the project.)
+> 1.3 [WORLD](#structure-WORLD) 
 
-> 1.4 [RUNTIME](#structure-RUNTIME) (This section contains all the game objects related to the runtime in the project.)
+> 1.4 [RUNTIME](#structure-RUNTIME) 
 
 <pre>
 
