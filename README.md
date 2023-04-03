@@ -2,27 +2,51 @@
 
 This Unity project contains several Virtual Reality trainings and includes several directories with different types of assets, such as scripts, scenes, prefabs, textures, and audio files. In this README file, we will provide an overview of each directory and describe its contents.
 
-## Sections
 
-> 1.0 [Developers](#structure-Developers) (This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.)
 
-> 1.1 [Art](#structure-Art) (This subdirectory contains all of the project's art assets, such as materials, models, shaders, and textures.)
+## Description
 
-> 1.2 [Audio](#structure-Audio) (This subdirectory contains all of the project's audio assets, such as AudioClips, AudioMixers, and music.)
+- Developers (This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resources to facilitate the development process.)
 
-> 1.3 [Prefabs](#structure-Prefabs) (This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene.)
+- Art (This subdirectory contains all of the project's art assets, such as materials, models, shaders, and textures.)
 
-> 1.4 [Scripts](#structure-Scripts) (This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.)
+- Audio (This subdirectory contains all of the project's audio assets, such as AudioClips, AudioMixers, and music.)
 
-> 1.5 [Documentation](#structure-Documentation) (This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications.)
+- Prefabs (This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene.)
 
-> 1.6 [Resources](#structure-Resources) (This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.)
+- Scripts (This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality.)
 
-> 1.7 [Scenes](#structure-Scenes) (This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.)
+- Documentation (This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications.)
 
-> 1.8 [StreamingAssets](#structure-StreamingAssets) (This directory contains any streaming assets used by the project, such as databases or other files used to store game data.)
+- Resources (This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.)
 
-> 1.9 [XR](#structure-XR) (This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.)
+- Scenes (This directory contains all of the project's scenes, which are the individual levels or screens that make up the game.)
+
+- StreamingAssets (This directory contains any streaming assets used by the project, such as databases or other files used to store game data.)
+
+- XR/XRI (This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation.)
+
+## Table of Contents
+
+> 1.0 [Developers](#structure-Developers) 
+
+> 1.1 [Art](#structure-Art) 
+
+> 1.2 [Audio](#structure-Audio) 
+
+> 1.3 [Prefabs](#structure-Prefabs) 
+
+> 1.4 [Scripts](#structure-Scripts) 
+
+> 1.5 [Documentation](#structure-Documentation) 
+
+> 1.6 [Resources](#structure-Resources) 
+
+> 1.7 [Scenes](#structure-Scenes) 
+
+> 1.8 [StreamingAssets](#structure-StreamingAssets) 
+
+> 1.9 [XR](#structure-XR) 
 
 > 2.0 [XRI](#structure-XRI)
 
@@ -77,7 +101,7 @@ This Unity project contains several Virtual Reality trainings and includes sever
 	_Scenes</a>
 
 		- ProjectName
-				 
+				
 			- Scene
 				
 		- Project LightingData
