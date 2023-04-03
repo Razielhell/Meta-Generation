@@ -6,61 +6,61 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 ## Description
 
-| Developers | 
-| --- |
-| This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process. |
+- Developers 
 
-| Documentation |
-| --- |
-| This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications. |
+This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process.
 
-| Oculus | 
-| --- |
-| If this project is intended for use with Oculus devices, this subdirectory may contain specific documentation related to Oculus integration. |
+- Documentation 
 
-| Plugins | 
-| --- |
-| This directory contains any plugins or external libraries used by the project. |
+This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications.
 
-| ProjectReferences | 
-| --- |
-| This directory contains subdirectories with different types of assets used in the project. |
+- Oculus  
 
-| Art | 
-| --- |
-| This subdirectory contains all of the project's art assets, such as Materials, Models, Shaders, Textures |
+If this project is intended for use with Oculus devices, this subdirectory may contain specific documentation related to Oculus integration.
 
-| Audio | 
-| --- |
-| This subdirectory contains all of the project's audio assets, such as AudioClips, AudioMixers, Music |
+- Plugins 
 
-| Prefabs | 
-| --- |
-| This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene. |
+This directory contains any plugins or external libraries used by the project.
 
-| Scripts | 
-| --- |
-| This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality. |
+- ProjectReferences 
 
-| Resources | 
-| --- |
-| This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files. |
+This directory contains subdirectories with different types of assets used in the project. 
 
-| Scenes | 
-| --- |
-| This directory contains all of the project's scenes, which are the individual levels or screens that make up the game. |
+- Art  
 
-| ProjectName | 
-| --- |
-| This subdirectory contains the scenes for the project, organized by project name. |
+This subdirectory contains all of the project's art assets, such as Materials, Models, Shaders, Textures.
 
-| Scene | 
-| --- |
-| This subdirectory contains the scene files for the project. |
+- Audio
 
-| Project LightingData | 
-| --- |
-| This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game. |
+This subdirectory contains all of the project's audio assets, such as AudioClips, AudioMixers, Music.
+
+- Prefabs 
+
+This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene.
+
+- Scripts 
+
+This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality. 
+
+- Resources 
+
+This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.
+
+- Scenes
+
+This directory contains all of the project's scenes, which are the individual levels or screens that make up the game. 
+
+- ProjectName
+
+This subdirectory contains the scenes for the project, organized by project name. 
+
+- Scene
+
+This subdirectory contains the scene files for the project. 
+
+- Project LightingData 
+
+This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
 
 
