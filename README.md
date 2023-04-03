@@ -132,31 +132,26 @@ This section contains all the game objects related to the runtime in the project
 ## Paths
 
 <pre>
-<a name="structure-PREREQUISITES">
-	_PREREQUISITES</a>
-		- LIGHTS
-		- Audio
-		- EFFECTS
-		- EVENTS
-		- ROUTINE & MANAGERS
-<a name="structure-PLAYER">
-	_PLAYER</a>
-		- XR Rig Triage
-		- Right Controller
-		- Left Controller
-		- TR_Bag
-<a name="structure-UI">
-	_UI</a>
-		- SCREEN UI
-		- WORLD UI
-<a name="structure-WORLD">
-	_WORLD</a>
-		- INDOOR
-		- BOUNDARIES
-		- FLOOR
-		- INTERACTABLES
-		- TRIAGE	
-<a name="structure-">
-	_RUNTIME</a>
-		- 
+<a name="structure-PREREQUISITES">_PREREQUISITES</a>
+	- LIGHTS
+	- Audio
+	- EFFECTS
+	- EVENTS
+	- ROUTINE & MANAGERS
+<a name="structure-PLAYER">_PLAYER</a>
+	- XR Rig Triage
+	- Right Controller
+	- Left Controller
+	- TR_Bag
+<a name="structure-UI">_UI</a>
+	- SCREEN UI
+	- WORLD UI
+<a name="structure-WORLD">_WORLD</a>
+	- INDOOR
+	- BOUNDARIES
+	- FLOOR
+	- INTERACTABLES
+	- TRIAGE	
+<a name="structure-">_RUNTIME</a>
+	- 
 </pre>
