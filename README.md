@@ -35,8 +35,6 @@ This subdirectory contains the scene files for the project.
 - Project LightingData :
 This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
-
-
 ## Table of Contents
 
 > 1.0 [Developers](#structure-Developers) 
@@ -61,8 +59,9 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 
 > 2.0 [XRI](#structure-XRI)
 
-<pre>
+## <Paths>
 
+<pre>
 <a name="structure-Developers">
 	_Developers</a>
 
