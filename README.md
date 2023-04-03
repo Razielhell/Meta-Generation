@@ -59,7 +59,7 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 
 > 2.0 [XRI](#structure-XRI)
 
-## <Paths>
+## Paths
 
 <pre>
 <a name="structure-Developers">
