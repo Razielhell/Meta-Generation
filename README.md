@@ -63,7 +63,7 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 <a name="structure-Developers">
 	_Developers</a>
 		- [DeveloperName]
-<a name="structure-Art">_Art</a>
+<a name="structure-Art">	_Art</a>
 		- Materials
 		- Models
 		- Shaders
