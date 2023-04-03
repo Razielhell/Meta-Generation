@@ -6,56 +6,33 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 ## Description
 
-- Developers 
-
+- Developers :
 This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process.
-
-- Documentation 
-
+- Documentation :
 This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications.
-
-- Oculus  
-
+- Oculus :
 If this project is intended for use with Oculus devices, this subdirectory may contain specific documentation related to Oculus integration.
-
-- Plugins 
-
+- Plugins :
 This directory contains any plugins or external libraries used by the project.
-
-- ProjectReferences 
-
+- ProjectReferences : 
 This directory contains subdirectories with different types of assets used in the project. 
-
-- Art  
-
+- Art :
 This subdirectory contains all of the project's art assets, such as Materials, Models, Shaders, Textures.
-
-- Audio
-
+- Audio :
 This subdirectory contains all of the project's audio assets, such as AudioClips, AudioMixers, Music.
-
-- Prefabs 
-
+- Prefabs :
 This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene.
-
-- Scripts 
-
+- Scripts :
 This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality. 
-
-- Resources 
-
+- Resources :
 This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files.
-
-- Scenes
-
+- Scenes :
 This directory contains all of the project's scenes, which are the individual levels or screens that make up the game. 
-
-- ProjectName
-
+- ProjectName :
 This subdirectory contains the scenes for the project, organized by project name. 
-- Scene
+- Scene :
 This subdirectory contains the scene files for the project. 
-- Project LightingData 
+- Project LightingData :
 This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
 
