@@ -6,7 +6,6 @@ This Unity project contains several Virtual Reality trainings and includes sever
 
 ## Description
 
-| :---: | :---: | :---: |
 | Developers | Art | Audio |
 | :---: | :---: | :---: |
 | This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process. | This subdirectory contains all of the project's art assets, such as materials, models, shaders, and textures. | This subdirectory contains all of the project's audio assets, such as AudioClips, AudioMixers, and music. |
