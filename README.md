@@ -140,7 +140,7 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 
 <h1 align="center"> Hero Cross Reality Application - Hierarchy Structure </h1>
 
-This section describes the hierarchy of the game objects in the Unity project and their prerequisites.
+<h4 align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</h4>
 
 ## Description
 
