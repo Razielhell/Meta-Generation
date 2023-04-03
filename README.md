@@ -10,31 +10,33 @@ This Unity project contains several Virtual Reality trainings and includes sever
 | --- |
 | This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process. |
 
-| Art |
+| Documentation |
+| --- |
+| This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications. |
+
+| Oculus | 
+| --- |
+| If this project is intended for use with Oculus devices, this subdirectory may contain specific documentation related to Oculus integration. |
+
+| Plugins | 
+| --- |
+| This directory contains any plugins or external libraries used by the project. |
+
+| ProjectReferences | 
+| --- |
+| This directory contains subdirectories with different types of assets used in the project. |
+
+| Art | 
+| --- |
+| This subdirectory contains all of the project's art assets, such as - Materials - Models - Shaders - Textures |
+
 | Audio | 
-| Prefabs | 
-| Scripts | 
-| Documentation | 
-| Resources | 
-| Scenes | 
-| StreamingAssets 
-| XR/XRI |
+| --- |
+| This subdirectory contains all of the project's audio assets, such as - AudioClips - AudioMixers and - Music |
 
-| Developers | Art | Audio | 
-| :---: | :---: | :---: |
-
-| Prefabs | Scripts | Documentation |
-| :---: | :---: | :---: |
-| This subdirectory contains all of the project's prefabs, which are reusable game objects that can be used to quickly add functionality to a scene. | This subdirectory contains all of the project's scripts, which are used to define the game's logic and functionality. | This directory contains the project's documentation, which may include user manuals, installation guides, or technical specifications. |
-
-| Resources | Scenes | StreamingAssets |
-| :---: | :---: | :---: |
-| This directory contains miscellaneous resources that do not fit into any of the other directories, such as fonts, sprites, or configuration files. | This directory contains all of the project's scenes, which are the individual levels or screens that make up the game. | This directory contains any streaming assets used by the project, such as databases or other files used to store game data. |
-
-| XR/XRI |
-| :---: |
-| This directory may contain any files related to XR (Extended Reality) integration, such as scripts or documentation. |
-
+| Oculus | 
+| --- |
+|  |
 ## Table of Contents
 
 > 1.0 [Developers](#structure-Developers) 
