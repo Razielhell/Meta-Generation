@@ -53,13 +53,9 @@ This directory contains all of the project's scenes, which are the individual le
 - ProjectName
 
 This subdirectory contains the scenes for the project, organized by project name. 
-
 - Scene
-
 This subdirectory contains the scene files for the project. 
-
 - Project LightingData 
-
 This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
 
