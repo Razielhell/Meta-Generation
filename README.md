@@ -66,21 +66,14 @@ This subdirectory contains the LightingData and NavMesh files for the project, w
 		- [DeveloperName]
 <a name="structure-Art">
 	_Art</a>
-
 		- Materials
-		
 		- Models
-		
 		- Shaders
-		
 		- Textures
 	<a name="structure-Audio">	
 	_Audio</a>
-	
-		- AudioClip
-		
-		- AudioMixer
-		
+		- AudioClip		
+		- AudioMixer		
 		- Music
 	<a name="structure-">	
 	_Prefabs</a>
