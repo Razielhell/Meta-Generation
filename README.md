@@ -59,10 +59,7 @@ This section contains all the game objects related to the runtime in the project
 In this style, we will be using a structure that relies more on filtering and search abilities of the Project Window for those working with assets to find assets of a specific type instead of another common structure that groups asset types with folders.
 
 > Using a prefix [naming convention](#asset-name-modifiers), using folders to contain assets of similar types such as `Meshes`, `Textures`, and `Materials` is a redundant practice as asset types are already both sorted by prefix as well as able to be filtered in the content browser.
-<pre>
-<h4 align="center" name="structure-ProjectStructure">Hero Cross Reality Application - Project Structure</h4>
-<p align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</p>
-Assets
+<pre><h4 align="center" name="structure-ProjectStructure">Hero Cross Reality Application - Project Structure</h4>
     Developers
         DeveloperName
     Art
