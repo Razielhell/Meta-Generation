@@ -6,9 +6,9 @@
 
 > 1.0 [Description](#structure-DESCRIPTION)
 
-> 1.1 [Project Structure](#structure-ProjectStructure) 
+> 1.1 [Project Structure Assets](#structure-ProjectStructure) 
 
-> 1.2 [Project Hierarchy](#structure-ProjectHierarchy) 
+> 1.2 [Project Hierarchy Assets](#structure-ProjectHierarchy) 
 
 <h3 align="center" name="structure-DESCRIPTION">Project Structure</h3>
 
