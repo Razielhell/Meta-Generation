@@ -41,7 +41,8 @@ This subdirectory contains the scene files for the project.
 - Project LightingData :
 This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
-Project Hierarchy
+
+
 
 - Prerequisites :
 This section contains all the game objects that is necessary for the current scene.
@@ -87,12 +88,9 @@ Assets
 	XRI
 
 
-<h1 align="center" name="#structure-ProjectHierarchy"> Hero Cross Reality Application - Hierarchy Structure </h1>
+<h3 name="structure-ProjectHierarchy">Hero Cross Reality Application - Project Hierarchy</h3>
 
 <p align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</p>
-
-## Description
-
 
 ## Sections
 
