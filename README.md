@@ -12,6 +12,7 @@
 
 <h3 name="structure-DESCRIPTION">Description</h3>
 
+<h3 align="center">Project Structure</h3>
 - Developers :
 This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process.
 - Documentation :
@@ -41,9 +42,7 @@ This subdirectory contains the scene files for the project.
 - Project LightingData :
 This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
-
-
-
+<h3 align="center">Project Hierarchy</h3>
 - Prerequisites :
 This section contains all the game objects that is necessary for the current scene.
 - Player :
@@ -87,46 +86,30 @@ Assets
 	XR
 	XRI
 
-
 <h3 name="structure-ProjectHierarchy">Hero Cross Reality Application - Project Hierarchy</h3>
 
 <p align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</p>
 
-## Sections
-
-> 1.0 [PREREQUISITES](#structure-PREREQUISITES) 
-
-> 1.1 [PLAYER](#structure-PLAYER) 
-
-> 1.2 [UI](#structure-UI) 
-
-> 1.3 [WORLD](#structure-WORLD) 
-
-> 1.4 [RUNTIME](#structure-RUNTIME) 
-
-## Paths
-
 <pre>
-<a name="structure-PREREQUISITES">_PREREQUISITES</a>
-	- LIGHTS
-	- Audio
-	- EFFECTS
-	- EVENTS
-	- ROUTINE & MANAGERS
-<a name="structure-PLAYER">_PLAYER</a>
-	- XR Rig Triage
-	- Right Controller
-	- Left Controller
-	- TR_Bag
-<a name="structure-UI">_UI</a>
-	- SCREEN UI
-	- WORLD UI
-<a name="structure-WORLD">_WORLD</a>
-	- INDOOR
-	- BOUNDARIES
-	- FLOOR
-	- INTERACTABLES
-	- TRIAGE	
-<a name="structure-">_RUNTIME</a>
-	- 
+	PREREQUISITES
+		LIGHTS
+		Audio
+		EFFECTS
+		EVENTS
+		ROUTINE & MANAGERS
+	PLAYER
+		XR Rig Triage
+		Right Controller
+		Left Controller
+		TR_Bag
+	UI
+		SCREEN UI
+		WORLD UI
+	WORLD
+		INDOOR
+		BOUNDARIES
+		FLOOR
+		INTERACTABLES
+		TRIAGE	
+	RUNTIME
 </pre>
