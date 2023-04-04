@@ -60,30 +60,30 @@ In this style, we will be using a structure that relies more on filtering and se
 
 > Using a prefix [naming convention](#asset-name-modifiers), using folders to contain assets of similar types such as `Meshes`, `Textures`, and `Materials` is a redundant practice as asset types are already both sorted by prefix as well as able to be filtered in the content browser.
 <pre><h4 align="center" name="structure-ProjectStructure">Hero Cross Reality Application - Project Structure</h4>
-    Developers
-        DeveloperName
-    Art
-		(Materials, Models, Shaders, Textures)
-	Audio
-		(AudioClip, AudioMixer, Music)
-	Prefabs
-	Scripts
-	Documentation
-		Oculus
-		Plugins
-		ProjectReferences
+Developers
+	DeveloperName
+Art
+	(Materials, Models, Shaders, Textures)
+Audio
+	(AudioClip, AudioMixer, Music)
+Prefabs
+Scripts
+Documentation
+	Oculus
+	Plugins
+	ProjectReferences
 	Resources
 	Scenes
-		ProjectName
-			Scene
-		Project LightingData
-			LightingData
-		NavMesh
-	StreamingAssets
-		Hero.db3
-	XR
-	XRI
-
+ProjectName
+	Scene
+Project LightingData
+	LightingData
+NavMesh
+StreamingAssets
+	Hero.db3
+XR
+XRI
+</pre>
 <h4 align="center" name="structure-ProjectHierarchy">Hero Cross Reality Application - Project Hierarchy</h4>
 
 <p align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</p>
