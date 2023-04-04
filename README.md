@@ -85,30 +85,27 @@ Developers
 		XR
 		XRI
 </pre>
-<h4 align="center" name="structure-ProjectHierarchy">Hero Cross Reality Application - Project Hierarchy</h4>
-
-
-
 <pre>
-	PREREQUISITES
-		LIGHTS
-		Audio
-		EFFECTS
-		EVENTS
-		ROUTINE & MANAGERS
-	PLAYER
-		XR Rig Triage
-		Right Controller
-		Left Controller
-		TR_Bag
-	UI
-		SCREEN UI
-		WORLD UI
-	WORLD
-		INDOOR
-		BOUNDARIES
-		FLOOR
-		INTERACTABLES
-		TRIAGE	
-	RUNTIME
+<h4 align="center" name="structure-ProjectHierarchy">Hero Cross Reality Application - Project Hierarchy</h4>
+PREREQUISITES
+	LIGHTS
+	Audio
+	EFFECTS
+	EVENTS
+	ROUTINE & MANAGERS
+PLAYER
+	XR Rig Triage
+	Right Controller
+	Left Controller
+	TR_Bag
+UI
+	SCREEN UI
+	WORLD UI
+WORLD
+	INDOOR
+	BOUNDARIES
+	FLOOR
+	INTERACTABLES
+	TRIAGE	
+RUNTIME
 </pre>
