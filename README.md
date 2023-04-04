@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-> 1.0 [Description] (#structure-Description)
+> 1.0 [Description](#structure-Description)
 
 > 1.1 [Project Structure](#structure-ProjectStructure) 
 
