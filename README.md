@@ -107,3 +107,22 @@ WORLD
 	TRIAGE	
 RUNTIME
 </pre>
+.back-to-top-btn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    font-size: 16px;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.back-to-top-btn:hover {
+    background-color: #555;
+}
