@@ -44,6 +44,7 @@ This subdirectory contains the scene files for the project.
 This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
 <h3 align="center">Project Hierarchy</h3>
+
 - Prerequisites :
 This section contains all the game objects that is necessary for the current scene.
 - Player :
@@ -61,6 +62,9 @@ In this style, we will be using a structure that relies more on filtering and se
 
 > Using a prefix [naming convention](#asset-name-modifiers), using folders to contain assets of similar types such as `Meshes`, `Textures`, and `Materials` is a redundant practice as asset types are already both sorted by prefix as well as able to be filtered in the content browser.
 <pre>
+<h4 align="center" name="structure-ProjectStructure">Hero Cross Reality Application - Project Structure</h4>
+
+<p align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</p>
 Assets
     <a name="#structure-developers">_Developers</a>(Use a `_`to keep this folder at the top)
         DeveloperName
@@ -87,7 +91,7 @@ Assets
 	XR
 	XRI
 
-<h3 name="structure-ProjectHierarchy">Hero Cross Reality Application - Project Hierarchy</h3>
+<h4 align="center" name="structure-ProjectHierarchy">Hero Cross Reality Application - Project Hierarchy</h4>
 
 <p align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</p>
 
