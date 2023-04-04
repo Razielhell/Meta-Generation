@@ -62,27 +62,27 @@ In this style, we will be using a structure that relies more on filtering and se
 <pre><h4 align="center" name="structure-ProjectStructure">Hero Cross Reality Application - Project Structure</h4>
 Developers
 	DeveloperName
-	Art
-		(Materials, Models, Shaders, Textures)
-	Audio
-		(AudioClip, AudioMixer, Music)
-	Prefabs
-	Scripts
-	Documentation
-		Oculus
-		Plugins
-		ProjectReferences
-		Resources
-		Scenes
-	ProjectName
-		Scene
-	Project LightingData
-		LightingData
-	NavMesh
-	StreamingAssets
-		Hero.db3
-	XR
-	XRI
+		Art
+			(Materials, Models, Shaders, Textures)
+		Audio
+			(AudioClip, AudioMixer, Music)
+		Prefabs
+		Scripts
+		Documentation
+			Oculus
+			Plugins
+			ProjectReferences
+			Resources
+			Scenes
+		ProjectName
+			Scene
+		Project LightingData
+			LightingData
+		NavMesh
+		StreamingAssets
+			Hero.db3
+		XR
+		XRI
 </pre>
 <h4 align="center" name="structure-ProjectHierarchy">Hero Cross Reality Application - Project Hierarchy</h4>
 
