@@ -87,7 +87,7 @@ Assets
 		Hero.db3
 	XR
 	XRI
-</pre>
+
 
 <h1 align="center" name="#structure-ProjectHierarchy">> Hero Cross Reality Application - Hierarchy Structure </h1>
 
