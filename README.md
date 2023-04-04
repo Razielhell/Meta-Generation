@@ -4,13 +4,15 @@
 
 ## Table of Contents
 
-> 1.0 [Description](#structure-Description)
+> 1.0 [Description](#structure-DESCRIPTION)
 
 > 1.1 [Project Structure](#structure-ProjectStructure) 
 
 > 1.2 [Project Hierarchy](#structure-ProjectHierarchy) 
 
-<h3 name="#structure-Description"> Description </h3>
+<a name="structure-PREREQUISITES">_PREREQUISITES</a>
+
+<h3 name="#structure-DESCRIPTION">Description</h3>
 
 - Developers :
 This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process.
