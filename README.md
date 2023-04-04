@@ -10,9 +10,7 @@
 
 > 1.2 [Project Hierarchy](#structure-ProjectHierarchy) 
 
-<a name="structure-PREREQUISITES">_PREREQUISITES</a>
-
-<h3 name="#structure-DESCRIPTION">Description</h3>
+<h3 name="structure-DESCRIPTION">Description</h3>
 
 - Developers :
 This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process.
@@ -89,7 +87,7 @@ Assets
 	XRI
 
 
-<h1 align="center" name="#structure-ProjectHierarchy">> Hero Cross Reality Application - Hierarchy Structure </h1>
+<h1 align="center" name="#structure-ProjectHierarchy"> Hero Cross Reality Application - Hierarchy Structure </h1>
 
 <p align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</p>
 
