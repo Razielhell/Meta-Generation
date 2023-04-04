@@ -2,7 +2,17 @@
 
 <p align="center"> This Unity project contains several Virtual Reality trainings and includes several directories with different types of assets, such as scripts, scenes, prefabs, textures, and audio files. In this README file, we will provide an overview of each directory and describe its contents.</p>
 
-## Description
+
+
+## Table of Contents
+
+> 1.0 [Description] (#structure-Description)
+
+> 1.1 [Project Structure](#structure-ProjectStructure) 
+
+> 1.2 [Project Hierarchy](#structure-ProjectHierarchy) 
+
+<a align="center" name=" #structure-Description"> Description </a>
 
 - Developers :
 This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process.
@@ -33,78 +43,7 @@ This subdirectory contains the scene files for the project.
 - Project LightingData :
 This subdirectory contains the LightingData and NavMesh files for the project, which are used to define the lighting and navigation data for the game.
 
-## Table of Contents
-
-> 1.0 [Developers](#structure-Developers) 
-
-> 1.1 [Art](#structure-Art) 
-
-> 1.2 [Audio](#structure-Audio) 
-
-> 1.3 [Prefabs](#structure-Prefabs) 
-
-> 1.4 [Scripts](#structure-Scripts) 
-
-> 1.5 [Documentation](#structure-Documentation) 
-
-> 1.6 [Resources](#structure-Resources) 
-
-> 1.7 [Scenes](#structure-Scenes) 
-
-> 1.8 [StreamingAssets](#structure-StreamingAssets) 
-
-> 1.9 [XR](#structure-XR) 
-
-> 2.0 [XRI](#structure-XRI)
-
-## Paths
-
-<pre>
-<a name="structure-Developers">
-_Developers</a>
-	- [DeveloperName]
-<a name="structure-Art">_Art</a>
-	- Materials
-	- Models
-	- Shaders
-	- Textures
-<a name="structure-Audio">_Audio</a>
-	- AudioClip		
-	- AudioMixer		
-	- Music
-<a name="structure-">_Prefabs</a>
-	-
-<a name="structure-">_Scripts</a>
-	-
-<a name="structure-Documentation">_Documentation</a>
-	- <a name="structure-Oculus">Oculus</a>
-	- <a name="structure-Plugins">Plugins</a>
-	- <a name="structure-ProjectReferences">ProjectReferences</a>
-<a name="structure-">_Resources</a>
-	-	
-<a name="structure-Scenes">_Scenes</a>
-	- ProjectName
-		- Scene
-	- Project LightingData
-		- LightingData
-	- NavMesh
-		- 
-<a name="structure-StreamingAssets">_StreamingAssets</a>
-	- Hero.db3
-<a name="structure-">_XR</a>
-	-
-<a name="structure-">_XRI</a>
-	-
-</pre>
-
-<a name="1.0"></a>
-<a name="structure-Developers"></a>
-
-<h1 align="center"> Hero Cross Reality Application - Hierarchy Structure </h1>
-
-<p align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</p>
-
-## Description
+Project Hierarchy
 
 - Prerequisites :
 This section contains all the game objects that is necessary for the current scene.
@@ -116,6 +55,46 @@ This section contains all the game objects related to the user interface in the 
 This section contains all the game objects related to the world in the project.
 - Runtime :
 This section contains all the game objects related to the runtime in the project.
+
+<a align="center" name=" #structure-ProjectStructure"> Project Structure </a>
+
+In this style, we will be using a structure that relies more on filtering and search abilities of the Project Window for those working with assets to find assets of a specific type instead of another common structure that groups asset types with folders.
+
+> Using a prefix [naming convention](#asset-name-modifiers), using folders to contain assets of similar types such as `Meshes`, `Textures`, and `Materials` is a redundant practice as asset types are already both sorted by prefix as well as able to be filtered in the content browser.
+<pre>
+Assets
+    <a name="#structure-developers">_Developers</a>(Use a `_`to keep this folder at the top)
+        DeveloperName
+
+    Art
+		(Materials, Models, Shaders, Textures)
+	Audio
+		(AudioClip, AudioMixer, Music)
+	Prefabs
+	Scripts
+	Documentation
+		Oculus
+		Plugins
+		ProjectReferences
+	Resources
+	Scenes
+		ProjectName
+			Scene
+		Project LightingData
+			LightingData
+		NavMesh
+	StreamingAssets
+		Hero.db3
+	XR
+	XRI
+</pre>
+
+<h1 align="center" name="#structure-ProjectHierarchy">> Hero Cross Reality Application - Hierarchy Structure </h1>
+
+<p align="center">This section describes the hierarchy of the game objects in the Unity project and their prerequisites.</p>
+
+## Description
+
 
 ## Sections
 
