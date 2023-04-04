@@ -12,8 +12,8 @@
 
 > 1.2 [Project Hierarchy](#structure-ProjectHierarchy) 
 
-<a name=" #structure-Description"> Description </a>
-## Description
+<h3 name=" #structure-Description"> Description </h3>
+
 - Developers :
 This directory includes files and documents intended for developers working on this project. It may contain guidelines, instructions, scripts, or other resourcesto facilitate the development process.
 - Documentation :
